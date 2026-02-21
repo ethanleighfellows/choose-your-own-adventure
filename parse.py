@@ -30,15 +30,26 @@ def normalize_ws(text: str) -> str:
     return text.strip()
 
 
+CHOICE_FULL_SENTENCE_RE = re.compile(
+    r"([^.!?\n]*?\b(?:if|when|to|choose|decide|you)\b[^.!?\n]*?\b(?:turn|go|proceed)\s+(?:to\s+)?(?:page\s+|section\s+)?([1-9]\d{0,2}|500)\b[^.!?\n]*?[.!?\n]?)",
+    re.IGNORECASE | re.DOTALL,
+)
+
 def extract_choices(section_text: str) -> list[dict[str, Any]]:
     choices: list[dict[str, Any]] = []
     seen: set[tuple[str, int]] = set()
-    raw_lines = section_text.replace("\r\n", "\n").replace("\r", "\n").split("\n")
-    lines = [normalize_ws(line) for line in raw_lines]
-
+    
+    # Normalize text but keep some sentence structure
+    text = normalize_ws(section_text)
+    
     def add_choice(label: str, dest: int) -> None:
         label = normalize_ws(label)
-        if not label or not (1 <= dest <= 500):
+        # Clean up label: remove trailing numbers if they are just the destination
+        label = re.sub(rf"\s*(?:turn|go|proceed)\s+(?:to\s+)?(?:page\s+|section\s+)?{dest}\b.*$", "", label, flags=re.IGNORECASE).strip(" ,;:-.")
+        if not label:
+            label = f"Go to section {dest}"
+        
+        if not (1 <= dest <= 500):
             return
         key = (label, dest)
         if key in seen:
@@ -46,38 +57,25 @@ def extract_choices(section_text: str) -> list[dict[str, Any]]:
         seen.add(key)
         choices.append({"text": label, "destination": dest})
 
-    for i, line in enumerate(lines):
-        if not line:
-            continue
+    # Try to find full descriptive sentences first
+    for match in CHOICE_FULL_SENTENCE_RE.finditer(text):
+        full_sentence = match.group(1)
+        dest = int(match.group(2))
+        add_choice(full_sentence, dest)
 
-        candidates = [line]
-        if i > 0 and lines[i - 1]:
-            candidates.append(f"{lines[i - 1]} {line}")
-        if i + 1 < len(lines) and lines[i + 1]:
-            candidates.append(f"{line} {lines[i + 1]}")
-
-        for candidate in candidates:
-            candidate = normalize_ws(candidate)
-            if not candidate:
-                continue
-            if not CHOICE_CUE_RE.search(candidate):
-                continue
-
-            direct = [int(m.group(1)) for m in DIRECT_CHOICE_RE.finditer(candidate)]
-            if direct:
-                for dest in direct:
-                    add_choice(candidate, dest)
-                continue
-
-            trailing = SENTENCE_TO_NUM_RE.search(candidate)
-            if trailing:
-                add_choice(candidate, int(trailing.group(1)))
-                continue
-
-            # Final fallback for OCR-noisy lines with cues and numeric destination.
-            nums = [int(n) for n in ANY_NUM_RE.findall(candidate) if 1 <= int(n) <= 500]
-            if nums and ("page" in candidate.lower() or " p." in candidate.lower() or " to " in candidate.lower()):
-                add_choice(candidate, nums[-1])
+    # Fallback: if no choices found, use the old line-based method but smarter
+    if not choices:
+        raw_lines = section_text.split("\n")
+        lines = [normalize_ws(l) for l in raw_lines if l.strip()]
+        for i, line in enumerate(lines):
+            dest_match = ANY_NUM_RE.search(line)
+            if dest_match and CHOICE_CUE_RE.search(line):
+                dest = int(dest_match.group(1))
+                # Try to grab the previous line if it looks like part of the choice
+                label = line
+                if i > 0 and not ANY_NUM_RE.search(lines[i-1]) and len(lines[i-1]) < 100:
+                    label = f"{lines[i-1]} {line}"
+                add_choice(label, dest)
 
     return choices
 

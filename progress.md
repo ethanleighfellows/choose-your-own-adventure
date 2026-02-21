@@ -94,6 +94,12 @@
 - **Notes**: Addressed security, reliability, performance, and quality-gate issues from `adjustments.md` (safe JSON saves with atomic writes, strict load validation, invalid-link handling, data-error state, render caches, journal bounds, menu overlays, duplicate-choice cleanup, and story lint gate).
 - **Tested**: `python3 -m py_compile main.py game.py renderer.py story.py ui.py player.py lint_story.py`; `python3 lint_story.py --story story.json`; `python3 lint_story.py --story storyfiles/book_story.json`; `SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python3 main.py --smoke --frames 320 --autoplay`
 
+### [POST-ADJUSTMENTS] UI/UX Polish Pass (Issue 13 & 14)
+- **Status**: ✅ Complete
+- **Files changed**: `renderer.py`, `game.py`, `parse.py`, `build_story.py`, `story.json`, `adjustments.md`
+- **Notes**: Implemented robust story text pagination (Issue 13) with "NEXT PAGE" navigation and improved choice extraction logic (Issue 14) to capture descriptive narrative labels instead of generic "turn to page" prompts.
+- **Tested**: `SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python3 main.py --smoke --frames 600 --autoplay`; verified pagination via unit test script; verified descriptive labels in `story.json`.
+
 ---
 
 ## In Progress

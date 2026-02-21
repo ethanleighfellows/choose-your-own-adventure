@@ -147,6 +147,8 @@ class Game:
 
         self.current_node = self.story.get_entry_node()
         self.current_node_id = self.current_node["id"]
+        self.current_pages: list[str] = []
+        self.current_page_idx = 0
         self.choice_rows: list[dict[str, Any]] = []
         self.pending_node_id: str | None = None
 
@@ -221,7 +223,14 @@ class Game:
         if apply_node_effects:
             self.player.apply_effects(node.get("effects", {}))
 
-        self.typewriter.reset(str(node.get("text", "")))
+        story_inner = self.renderer._panel_inner(self.renderer.STORY_RECT)
+        max_lines = max(1, story_inner.height // self.renderer.line_height)
+        pages = self.renderer.paginate_text(str(node.get("text", "")), story_inner.width, max_lines)
+        
+        self.current_pages = ["\n".join(p) for p in pages]
+        self.current_page_idx = 0
+        self.typewriter.reset(self.current_pages[0] if self.current_pages else "")
+        
         self._rebuild_choices()
 
         if self.player.health < 20:
@@ -493,6 +502,9 @@ class Game:
             if event.key in (pygame.K_RETURN, pygame.K_KP_ENTER, pygame.K_SPACE):
                 if not self.typewriter.finished:
                     self.typewriter.skip()
+                elif self.current_page_idx < len(self.current_pages) - 1:
+                    self.current_page_idx += 1
+                    self.typewriter.reset(self.current_pages[self.current_page_idx])
                 elif self.choice_rows:
                     self._activate_choice(self.choice_cursor.index)
                 else:
@@ -506,6 +518,10 @@ class Game:
         elif event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
             if not self.typewriter.finished:
                 self.typewriter.skip()
+                return
+            if self.current_page_idx < len(self.current_pages) - 1:
+                self.current_page_idx += 1
+                self.typewriter.reset(self.current_pages[self.current_page_idx])
                 return
             for idx, rect in enumerate(self.renderer.choice_hitboxes(len(self.choice_rows))):
                 if rect.collidepoint(event.pos):
@@ -691,6 +707,7 @@ class Game:
             "player": self.player.to_dict(),
             "node": self.current_node,
             "story_text": self.typewriter.visible_text,
+            "is_paginated": self.current_page_idx < len(self.current_pages) - 1,
             "show_story_cursor": self.typewriter.finished and self.typewriter.cursor_visible,
             "choices": self.choice_rows,
             "selected_choice_index": self.choice_cursor.index,

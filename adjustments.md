@@ -268,6 +268,9 @@ Narrative content is cut off or visually glitched, breaking immersion and making
 **Required Fix**  
 Implement a robust word-wrapping algorithm that respects panel padding and borders. Add support for scrollable text or pagination within the story panel when content exceeds the fixed height.
 
+**Fix Applied**  
+Implemented `Renderer.paginate_text` and updated `Game` to handle story text pagination. The typewriter effect now types one page at a time, and the user can advance through pages. Fixed `_wrap_text` to be more robust.
+
 ---
 
 14. ### [Severity: Major] Extract and Display Descriptive Choice Labels
@@ -280,6 +283,9 @@ Players lose the context of their decisions, reducing the game to a random numbe
 
 **Required Fix**  
 Improve the NLP/regex heuristics in `parse.py` and `build_story.py` to better capture the descriptive sentences preceding the page numbers and use them as choice labels.
+
+**Fix Applied**  
+Improved `parse.py` regex to capture full descriptive sentences for choices. Re-ran story conversion pipeline to update `story.json` with descriptive labels.
 
 ---
 

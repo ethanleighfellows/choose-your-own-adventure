@@ -106,34 +106,66 @@ class Renderer:
             return parts
 
         lines: list[str] = []
-        for para in text.split("\n\n"):
+        # Split by explicit double newlines first to preserve paragraph breaks
+        paragraphs = text.split("\n\n")
+        for i, para in enumerate(paragraphs):
+            # Also handle single newlines as spaces unless they are intentional
             para = para.replace("\n", " ").strip()
             if not para:
-                lines.append("")
                 continue
-            words = para.split()
-            current = ""
+            
+            words = para.split(" ")
+            current_line = ""
             for word in words:
+                if not word:
+                    continue
                 word_parts = split_long_word(word)
-                for word_part in word_parts:
-                    candidate = f"{current} {word_part}".strip()
-                    if self.body_font.size(candidate)[0] <= max_width:
-                        current = candidate
+                for part in word_parts:
+                    test_line = f"{current_line} {part}".strip()
+                    if self.body_font.size(test_line)[0] <= max_width:
+                        current_line = test_line
                     else:
-                        if current:
-                            lines.append(current)
-                        current = word_part
-            if current:
-                lines.append(current)
-            lines.append("")
-        if lines and lines[-1] == "":
-            lines.pop()
+                        if current_line:
+                            lines.append(current_line)
+                        current_line = part
+            if current_line:
+                lines.append(current_line)
+            
+            # Add a blank line between paragraphs, but not after the last one
+            if i < len(paragraphs) - 1:
+                lines.append("")
+
         self._wrap_cache[cache_key] = list(lines)
         self._wrap_cache_order.append(cache_key)
         if len(self._wrap_cache_order) > 256:
             old_key = self._wrap_cache_order.pop(0)
             self._wrap_cache.pop(old_key, None)
         return lines
+
+    def paginate_text(self, text: str, max_width: int, max_lines: int) -> list[list[str]]:
+        """Split wrapped lines into pages based on maximum lines per page."""
+        lines = self._wrap_text(text, max_width)
+        if not lines:
+            return [[]]
+        
+        pages: list[list[str]] = []
+        current_page: list[str] = []
+        
+        for line in lines:
+            if len(current_page) >= max_lines:
+                pages.append(current_page)
+                current_page = []
+            # Skip leading empty lines on a new page unless the previous page ended with one (unlikely)
+            if not current_page and line == "":
+                continue
+            current_page.append(line)
+        
+        if current_page:
+            pages.append(current_page)
+        
+        if not pages:
+            return [[]]
+        return pages
 
     def _draw_ascii_border(
         self, canvas: pygame.Surface, rect: pygame.Rect, color: tuple[int, int, int]
@@ -297,14 +329,23 @@ class Renderer:
         canvas.blit(art_surface, (start_x, art_inner.y))
 
         story_inner = self._panel_inner(self.STORY_RECT)
-        wrapped = self._wrap_text(str(frame.get("story_text", "")), story_inner.width)
+        story_text = str(frame.get("story_text", ""))
+        
+        # If text contains newlines, we treat it as pre-paginated lines
+        if "\n" in story_text:
+            lines = story_text.split("\n")
+        else:
+            lines = self._wrap_text(story_text, story_inner.width)
+            
         max_story_lines = max(1, story_inner.height // self.line_height)
-        for idx, line in enumerate(wrapped[:max_story_lines]):
+        for idx, line in enumerate(lines[:max_story_lines]):
             surface = self.body_font.render(line, True, self.COLOR_TEXT)
             canvas.blit(surface, (story_inner.x, story_inner.y + idx * self.line_height))
 
         if frame.get("show_story_cursor", False):
-            cursor_surface = self.body_font.render("▶", True, self.COLOR_TEXT)
+            is_paginated = bool(frame.get("is_paginated", False))
+            cursor_text = "NEXT PAGE ▶" if is_paginated else "▶"
+            cursor_surface = self.body_font.render(cursor_text, True, self.COLOR_TEXT)
             x = story_inner.right - cursor_surface.get_width()
             y = story_inner.bottom - cursor_surface.get_height()
             canvas.blit(cursor_surface, (x, y))
