@@ -255,6 +255,34 @@ Removed unused `ui.format_choices` and unused `renderer` char-height state, and 
 - Unbounded journal/path lists can grow indefinitely in long sessions.
 - No profiling hooks/metrics to track frame time, audio init latency, or memory growth over extended play.
 
+## UI & UX Issues (Prioritized)
+
+13. ### [Severity: Major] Fix Text Wrapping and Overflow in Story Panels
+
+**Problem**  
+The story text panel does not correctly wrap text within its ASCII borders. Text frequently overflows the panel boundaries or becomes unreadable when the content exceeds the available vertical space.
+
+**Impact**  
+Narrative content is cut off or visually glitched, breaking immersion and making the game unplayable for longer sections.
+
+**Required Fix**  
+Implement a robust word-wrapping algorithm that respects panel padding and borders. Add support for scrollable text or pagination within the story panel when content exceeds the fixed height.
+
+---
+
+14. ### [Severity: Major] Extract and Display Descriptive Choice Labels
+
+**Problem**  
+In-game choices are often displayed with generic labels like "proceed to section X" instead of the actual descriptive text from the book (e.g., "If you want to open the door, turn to 42").
+
+**Impact**  
+Players lose the context of their decisions, reducing the game to a random number selection rather than a narrative experience.
+
+**Required Fix**  
+Improve the NLP/regex heuristics in `parse.py` and `build_story.py` to better capture the descriptive sentences preceding the page numbers and use them as choice labels.
+
+---
+
 ## Security Review
 - Input validation issues: Save payload structure/type validation is weak; malformed data can enter runtime paths.
 - Injection risks: `pickle.load()` on save file is a direct code-execution vector.
