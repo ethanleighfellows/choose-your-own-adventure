@@ -1,0 +1,2554 @@
+[
+  {
+    "id": "section_1",
+    "section_number": 1,
+    "title": "Toward Forbidden Castle",
+    "text": "_ You promised yourself never to go back into he Cave of Time! But when you found the open- _ing behind a big boulder in Red Creek Canyon, _ you couldn't resist. _ The Cave seemed darker than before. You slipped and fell. Your head hit something. And _ here you are, lying in a field, looking up into the _ branches of a big oak tree, with no idea of where you are, or even what century it might be! Now you may never see your family and friends again. _ Rubbing your aching head, you take in the scene around you. Nearby you see a narrow dirt road, and beyond it a fast-running brook. The road disappears inte dense woods on either side _ of the field. __ You hear the sound of hooves, and a strange clanking noise. Someone is coming! You duck behind a tree as two men on horseback ride toward you. They are wearing shining metal armor. One of them carries a white banner with a golden lion on it. They must be knights! You _ watch as they rein in their horses and dismount _ just a few yards away. _ \"It has been a long ride, Sir Rupert,\" says the taller one, \"'and you have had a long time to _ think. Tell me, have you solved the riddle of the Forbidden Castle?\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 3.",
+        "next": "section_3",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_3",
+    "section_number": 3,
+    "title": "Toward Forbidden Castle",
+    "text": "In aay Sir Godfrey, I have tried, and so has c veryone else in England. What a reward King Henry has offered-half the kingdom of Wales!\" A handsome reward indeed,\" Sir Godfrey replies, | \"but not an over-generous one, for the old monk promised King Henry that if 'he con- quered the Forbidden Castle he would rule all of The knights fill their flasks with water from the stream. As they walk back to their horses, Sir Godfrey says, \"We must get on to Cotwin Castle. The king expects us before the sun passes behind the west tower. He will be angry if we are late.\"' _ \"Aye,\" says Sir Rupert, as he vaults onto his horse. \"The king has been in a fearsome temper 'since he learned that there have been foreign spies in the English court. And now he has _ ordered that all suspicious-looking travelers shall ~_ be locked in the dungeon!\"' As the knights prepare to ride off, you wonder _ whether you should come out from behind the _ tree. You're wearing twentieth-century clothing. Surely you will look suspicious to these knights. _ On the other hand, you can't stay hidden forever. If you decide it would be wiser to wait for the next passerby, x you pecide to step out from your hiding place,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 4.",
+        "next": "section_4",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 6.",
+        "next": "section_6",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_4",
+    "section_number": 4,
+    "title": "Forest Road",
+    "text": "You decide to wait. As the knights ride out oft sight, you hear a deep voice behind you. \"Are you going to stand behind that tree all 4 day?\" Turning, you look up into the eyes of a giant of © a man. He is wearing leggings and a tunic made from deerskin. He holds a bow in one hand. A quiver filled with arrows is strapped over one © shoulder. © Aaya \"You don't want King Henry's knights to see 4 you, eh?\"' He laughs and adds, 'Then you area ~ friend to me. Those puppets give me more trou- ble than they are worth!\" He bends down and looks closely at your face. \"My word, I have - never seen the likes of you in these woods!\"\" \"Tama stranger from another place and - another time,'\"' you say. \"Could you tell me what - year it is?\"' The giant laughs again. 'I don't keep count,\" he says, \"and I have never seen why anyone - should! Garth is my name, and you can stay with me, if you like.\" \"Where do you live?\" you ask. Garth answers with a wave of his arm. \"My | house is the whole wide forest! There is plenty of - food, and plenty to do-it is the only place where a person can be free. Why not join me? Of - course, if you are bothered by a little rain and | wind now and then, you can follow that road to é Cotwin Castle. They'll give you a roof over your © head. | must warn you, though, it might be the _ roof of a dungeon.\"'\n\nCotwin Castle, you decide to try your luck at\n\nif",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 9.",
+        "next": "section_9",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you decide to go with Garth, turn to section 7,",
+        "next": "section_7",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_5",
+    "section_number": 5,
+    "title": "Dragon Trail",
+    "text": "Michelle follow the trail to the west, which winds around the steep hillside. The sun is beginning to set when you see arambling build-. ing made of stones and logs.\n\nWild flowers and ferns are growing on the sod-covered roof. Goats and sheep graze nearby. \"This must be amonastery,\" Michelle says, - \"but look, someone is using it as afarm.\"' As she speaks, aman walks out of the building.\n\n\"And who are you?\" he asks. \"We are travelers from the north,'' says \"Michelle. \"'And who are you?\" i - \"Auguste le Bon,\"' he replies, \"'late of service to the Prince of Lyon, but nowI tend this farm for - the Philosopher Knights.\"' Auguste takes you inside and gives you bread and cheese and warm broth.\n\nHe tells you that the Philosopher Knights spend most of their time studying philosophy and playing chess, but they are at present visiting the court of the Prince of Lyon, who, it seems, fears an invasion by Henry, King of England.. \"Naturally, he has called upon the Phi losophers for advice,\" says Auguste. Auguste asks if you would like to spend the Sight and you and Michelle gratefully accept.\n\nIn the morning you ask Auguste if he thinks you can safely get past the Dragon of the Ledges. \"Tcannot answer that,'\"' he says, ''for Ihave - never known anyone to try. But Iknow of a - secret trail through No Man'sForest.\n\nIt is possible to get through safely, though there is great risk. Iwill be glad to show you the way, if you like. Whichever route you take, you must travel on foot, for the dragon trail is too steep and rugged, and the trail through the forest is sometimes no more than atunnel through the thorns.\" Michelle beckons you aside.\n\n\"What do you think?\" she says. You're tempted to choose the dragon trail. After all, you're from the twentieth century and you know that dragons never really existed.\n\nOn the other hand...",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 9.",
+        "next": "section_9",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you decide to go with Garth, turn to section 7,",
+        "next": "section_7",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_6",
+    "section_number": 6,
+    "title": "Forest Road",
+    "text": "Just as the knights mount their horses, you step out from behind the tree. 'Who are you?\" asks Sir Godfrey. ''Where did you get those strange garments?\" \"I know a spy when | see one,' says Sir Rupert. He leans over and pulls you roughly up on his horse. \"'If this is not.a spy, it is the devil!' Sir Godfrey bring his horse up next to you and stares at you intently. \"The devil is crafty, and knows how to assume an innocent form, but I will not be fooled! We'll take this devil to the castle, Rupert, and thence to the dungeon.\"'",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 10.",
+        "next": "section_10",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_7",
+    "section_number": 7,
+    "title": "Forest Road",
+    "text": "You've always wanted to learn how to live in the wilderness. This seems like the perfect _ chance. You follow Garth as he leads you _ through pine forests, across roaring brooks, and - up steep rock ledges. The sun has dipped below _ the western hills when you reach a shelter under ~ - arock ledge. You help him gather sticks and pine _ boughs, and you are soon warming your hands - before a blazing fire. \"Why do you live in the woods like this?\"' you ask. He grins. ''Ever since I told King Henry that he _ was no better a man than anyone else, he's hada _ price on my head. He has lost five of his best _ knights trying to bring me to the gallows.\"' \"Before I met you, I overheard his knights talking about some riddle. Do you know anything about it?\"' _ \"Yes, and it is quite a story,\" says Garth. 'About a year ago an old monk visited the king and told him about a mysterious castle. Of course, the king demanded to know where this castle is. But the monk would not tell. Instead, he recited a strange riddle and then said, 'Who solves the riddle will find the castle. And who - conquers the castle will rule all Europe.' \"Ever since then, King Henry has been trying - to solve the riddle. He is angry because none of his wise men can do so.\"' __",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 8.",
+        "next": "section_8",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_8",
+    "section_number": 8,
+    "title": "Court And Castle",
+    "text": "'(Do you know the answer to the riddle?\" Garth laughs. \"I do not even know the riddle. If you want to find out, you must gain admittance to King Henry's court. You may succeed, but if they suspect you are a runaway serf, they will throw you in the dungeon.\"' You have no way of knowing what may lie in ~ store at Cotwin Castle. But it's risky staying with Garth. He has said himself that the king's knights _ are searching for him. AR a oe tt EN FREY pati SS eS aT ne at a LI a tea Dial ch satiety ah. a Md daoed cae nea eae eho) ete a cede\n\n:",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you decide to try your luck at Cotwin Castle, turn to...",
+        "next": "section_12",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you stay with Garth, turn to section 11.",
+        "next": "section_11",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_9",
+    "section_number": 9,
+    "title": "Court And Castle",
+    "text": "'ou thank Garth for his offer, bid him farewell, and set out for Cotwin Castle. You have not gone far when you see a woman coming down the road. She is hunched over- almost hidden by her black shawl-as she walks alongside a wooden cart loaded with hay and pulled by a little gray horse. If you let her pass and continue on toward Cotwin Castle,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 14.",
+        "next": "section_14",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you stop the woman, turn to section 16.",
+        "next": "section_16",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_10",
+    "section_number": 10,
+    "title": "Toward Forbidden Castle",
+    "text": "You cling to the horse, trying to keep from falling off, as the knights gallop to the castle yard. - They drag you down a long flight of crumbling - stairs. One of them opens a creaking iron gate. Another shoves you into a dark, musty room. The gate swings shut behind you. The floor of your new quarters is rock. There; are no windows-only a few cracks in the walls - that provide barely enough light for you to see - your cellmate, crouching in the corner. He is very thin, and his grimy hair hangs halfway down to - his hips. - \"Keep away from me!'' he shouts. \"Your - clothes were made by the devil.... Don't come ~ near me!\"' \"Please don't be afraid. | won't hurt you. But ' do you know what they will do with me?\" \"Most prisoners are beheaded, but if you are ' found guilty, they'll burn you at the stake. Itis the - only way to purge the devil from your soul!\" He steps closer. \"'Don't worry. If you're inno- cent, you won't burn.\"' You have only a few moments before your fate is sealed. Maybe the guards can help you. If you ask the guards to tell you the riddle of the Forbidden Castle, If you ask them about what sort of a trial you will have, shah \"tne",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 17.",
+        "next": "section_17",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 20.",
+        "next": "section_20",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_11",
+    "section_number": 11,
+    "title": "Dragon Encounter",
+    "text": "Life with Garth may not be easy, or even safe, ut he is a good friend, and you prefer the dan- of the forest to those of King Henry's court, you join Garth in his forest kingdom. He teaches you to hunt and fish. In the eve- © nings, the two of you sit around the fire, and he tells stories of knights and dragons until you fall asleep dreaming of days gone by with your family -and friends, hundreds of years in the future. _ One day Garth turns to you and says, \"You 'have grown quick and strong, and wise in the ways of the forest. It's time for you to decide what sort of life you want to live. If you would like a dangerous life, where you might find fame and ~ fortune, you could enter the court of Rufus, the fad King of Hereford. Or, if you wish, you can pp? remain in the forest with me! whe If you choose to enter the court of Rufus the ee Mad, vel you choose a life in the forest,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 21.",
+        "next": "section_21",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 24.",
+        "next": "section_24",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_12",
+    "section_number": 12,
+    "title": "Forest Road",
+    "text": "iV eae a Garth wishes you good luck as you shake hands and say goodbye. q _ As you trudge along the dusty road, your heart | is lightened by the sight of flowering trees, the © cheerful songs of birds, and the smells of the - sweet summer air. J The afternoon sun is hot when you reach a broad, sloping meadow. You can see Cotwin Castle perched on the next hill. Its high stone - walls and tall towers look like a scene from a _ picture book. A bugle sounds as you approach the ramparts. - The great oak gate swings open, and three - knights gallop forth. They rein in their horses - beside you. Without a word, one of them lifts you - up on his horse, while another prods you with his sword. i pu asi ny Ws RK psu ' x ies",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 10.",
+        "next": "section_10",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_14",
+    "section_number": 14,
+    "title": "Court And Castle",
+    "text": "ee You follow the road for what feels like miles, wondering whether you will ever find your way to Cotwin Castle, or even find food and shelter by _ nightfall. a The sun is beginning to set when a traveler comes riding toward you, his cloak billowing be- hind him. ' \"Where are you headed?\" he calls to you as he reins in his horse. You like his warm brown eyes, - and the impish expression on his weather-beaten - face.. 'Pm looking for Cotwin Castle. Am I heading the right way?\" you ask. \"Indeed, you have been heading the wrong way,\" he says. \"\"But that is a good thing for you. - If you were ever to reach Cotwin Castle, they would surely throw you in the dungeon. Because of the clothes you are wearing, they would think - you are possessed by evil spirits!\" a Evil spirits! You are surprised that anyone | could imagine you to be possessed by evil spirits. - Then you remember that in medieval times evil spirits were often blamed for unusual happen- ings. 'What am I to do?\" you ask. \"Just keep going. You are only a mile or so from a fishing village. When you get there, ask for Stephen. Tell him that his brother Luke sent you. You can stay with him and his wife. They will teach you how to catch any fish in the sea.\"' You call your thanks to Luke as he rides off, waving over his shoulder. You continue on your way, and soon reach a hilltop. Although it's\n\nYou think about the life ahead of you-a sim- _pler life than the one you thought you would _ have-without books or TV or movies, planes or cars, or a million other things you took for B eranted. On the other hand, here there is no _ pollution, no car wrecks, no bombs. And there _ will be plenty of excitement fishing and sailing. Will life be better, or worse, than in your own _ century? The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_16",
+    "section_number": 16,
+    "title": "Forest Road",
+    "text": "\"Good afternoon,\" you say. \"I am a traveler from a strange land. Can you tell me where I could find food and shelter?\" The woman nods. 'Follow me.' You fall into step next to the cart, wondering where she is going.: \"Could you tell me what year it is?\" you ask. - \"Either 1052 or 1152,\" she says. \"'I never can remember myself.\": You soon reach a tiny stone house at the edge - of the woods. She leads you inside and motions © you to sit down on a crude oak bench. \"You wonder who I am.\" She speaks with a - cackling voice. '! um called Madame Leeta. I have prophetic powers, and I can tell that you~ have prophetic powers.\" \"Me?\": 'You have a magic disk!' She points to your - wrist. You realize that your watch must look - magical to her!: \"And you can see into the future,\" she con- tinues.: _ You cannot help but nod your head, for at that moment you were looking into the future-think- ing of your own home and your own time.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 26.",
+        "next": "section_26",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_17",
+    "section_number": 17,
+    "title": "Toward Forbidden Castle",
+    "text": "lease,\" you ask the two guards, \"'tell me the dle of the Forbidden Castle!\" _ The taller one looks down at you-a stupid grin on his face-and pushes you through the 'crowd of people gathered in the courtyard. Knights and ladies in colorful robes are laughing nd calling to each other. __ In the center of the courtyard is a pile of wood stacked around a pole. A man stands next to the 'pole, holding a coil of rope in one hand and a knife in the other. __ The tall guard leans toward you. \"The Lord 'Chancellor will allow a final request before you are tied to the stake.'' He points to a man, whose dark gray cloak reaches to his ankles. _ \"May I make a last request?'' you ask. The chancellor looks at you coldly. \"What is Pye _ \"Tell me the riddle of the Forbidden Castle.\" \"Little good it will do you,\" he says. \"But it is a simple enough request.\" He steps closer and looks at you curiously. Then he says: \"Somewhere south, where it is colder, Where that which falls stays where it is, You'll find what isn't what it is.\" As you stand there, trying to figure out the riddle, the executioner steps forward with his coil _of rope. You have only a minute left to live. _ Escape is impossible.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 19.",
+        "next": "section_19",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_19",
+    "section_number": 19,
+    "title": "Court And Castle",
+    "text": "TTT q?, =< mar S| J A\" _ Suddenly, the guards press you up against the stake. The rough, prickly rope pulls tight against your waist. - You must say something now.\n\nIf you say, \"Stop! I have the solution to the Reseae e riddle!\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│           COURT AND CASTLE           │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you ask for a little time to solve the riddle, turn to...",
+        "next": "section_25",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 28.",
+        "next": "section_28",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_20",
+    "section_number": 20,
+    "title": "Court And Castle",
+    "text": "\"What will happen at the trial?\" you ae ap 'Do not worry,\" one of the guards replies. if you are not in league with the devil you will go free.\"', They lead you out into the courtyard. It is filled with knights and ladies, except for a large area in» the middle where a pile of wood is neatly stacked. _ \"How does this trial proceed?\"' you ask one of the guards. \"It is simple,\"' he says. 'They tie you to the stake and light the fire. If you are guilty, you will - burn; if you are innocent, you will not be harmed.\" You try to run for it, but the guards quickly ap you. Step by step they march you to your > loom. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_21",
+    "section_number": 21,
+    "title": "Forest Road",
+    "text": "peeal for all you've done for me,\" you! Garth, \"but now I think I'd like to see more of e 'world. Pm willing to take my chances with _ Rufus, the Mad King.\" \"I admire your courage,\" says Garth. \"Rufus Spay like you, and then again he may not, or he may like you one day and hate you the next. Some say he is generous, some say he is mean. ~ You will soon find out.\" _ For three days Garth travels with you through the forest. When you reach a road that runs alongside a crystal-clear lake, Garth stops and shakes your hand. \"Follow this road for a mile or so, and you will reach Fiddlegate, the castle of - Rufus the Mad.\" You bid him farewell, and start along the road. - You miss the company of your friend, but you're happy to feel the warm sun on your back, and to smell the fresh, clean air of the pine forest. The sun is high overhead when you find your- self at the top of a ridge. Ahead of you is a beautiful green valley. Beyond it is a great castle, with a stone tower which seems to be leaning slightly to one side. As you approach the front entrance, you notice that some of the walls are crumbling and the drawbridge is down. You _ would think the castle deserted were it not for _ smoke rising from the courtyard and the cows _ grazing in a nearby field.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 22.",
+        "next": "section_22",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_22",
+    "section_number": 22,
+    "title": "Court And Castle",
+    "text": "As you stand before the drawbridge, wonder- ing whether to cross it, a bugle blows. After a few minutes two guards appear at the entrance. They lead you to the large, sunlit courtyard. The yard is. covered with broken slate tiles. Clumps of weeds and shrubs poke out of the ground. 3 La ple i | ) he eu | i ei or | iy ys eB vy es ts = \"Meter o Ul Clee,\n\nier pe cnn pt HH rt il ay Ll 7a eh ii ant 'iy be = a a A TT He",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_24",
+    "section_number": 24,
+    "title": "Forest Road",
+    "text": "You stay with Garth, and live in the forest. You become strong and tough, and you learn to make the best of the bad and enjoy the good.: Over the years, others join you and Garth. ' Some of them are serfs who have run away from | their masters; others are knights who did not wish - to spend their lives fighting for the king. | By the time you grow up, Garth has grown too old to live the rough life of the forest. You be-- come the leader of the clan. You make a deal with King Henry to protect travelers passing through the forest. In return he gives you and your friends a castle of your own. It's not the sort of life you expected, but it's as - good as you could hope to find hundreds of years _ before your birth! The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_25",
+    "section_number": 25,
+    "title": "Court And Castle",
+    "text": "cS can ie the riddle.\" e guards laugh in your face. _ The chancellor's mouth twists into a cruel The executioner flips a rope over your head Re and lashes you to the stake, and your last hope; The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│           COURT AND CASTLE           │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_26",
+    "section_number": 26,
+    "title": "Toward Forbidden Castle",
+    "text": "a Wei ae Be Aa iech oA Ang at 6: Raid Madame Leeta looks at you intently. \"T shall now tell you the riddle of the Forbidden Castle. - Not more than a year ago, it was-an old monk: visited King Henry and told him of a remote - castle with four ivory towers. He called it the Forbidden Castle, and he told the king that if he conquered this castle, he would rule all of © Europe! The king asked how he could reach the castle. But the monk's only answer was to give the king this riddle: \"Somewhere south, where it is colder, Where that which falls stays where it is, You'll find what isn't what it is.\" \"Since then, the king has spread news of the riddle throughout all of England, in the hope that - | someone could solve it. He has offered half the kingdom of Wales to anyone who can show him the way! The Baron von Sal, whose lands lie in Alsace, is determined to find the Forbidden Cas- tle and win the reward, and he has engaged me to help him.\"' 'Have you any idea where the castle is?\"\" you ask. Madame Leeta stares at you with glittering eyes. ''We know that the castle lies to the south, so we must cross the English Channel and jour- ney through France. Surely, with your magic powers aiding my own we shall solve the riddle, and then great riches will be ours.\" You are tempted to set out with Madame Leeta and the baron. You are curious to see the Forbid- _ den Castle. And it would be nice to be rich. On ~\n\nged (| Aen cee +e ~ UT tet f = Za - A SEED AZZ the other hand, you know that you don't have any magic powers, just a wristwatch. How can you expect to solve the riddle? Besides, you are worried about how to get back to the twentieth century. Maybe you could find an entrance to the Cave of Time near the field where you suddenly arrived in medieval England. If you say you'll go with Madame Leeta in search of the castle, If you say, \"No, thanks, I'm more interested in trying to find my way home,\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 32.",
+        "next": "section_32",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 33.",
+        "next": "section_33",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_28",
+    "section_number": 28,
+    "title": "Court And Castle",
+    "text": "\"Stop! I have the solution to the riddle!\" _ e The executioner laughs. He waves his lighted - torch before your eyes. Suddenly the chancellor - steps forward. 'Stop the execution!\" he saysina loud voice. \"But,\" the executioner cries, \"the prisoner is stalling for time.\"' \"That may be,\" says the chancellor, \"'but the - prisoner is like none we've seen before. Perhaps this is a wizard. This stranger may be the one person who can answer the riddle.\" The knights and ladies begin to chant-\"To the stake! To the stake!\" But the chancellor leads you out of the court- - yard and through an archway, beyond which isa ~ large oak door guarded by two men with heavy - swords and shields. One of them opens the door, and the chancellor leads you to a large octagonal room lighted by casement windows over each of the rough stone walls. At the far end of a long oak table sits King Henry himself. He looks at you curiously as he strokes his long, pointed beard. \"We have never been so happy as when we learned that you have the solution to the riddle,\"' he says. \"'So, tell us what it is!'' You have been trying desperately to think of a solution. You think of the first line of the riddle- \"Somewhere south, where it is colder.'' At least - you have a couple of ideas. Normally it will be - warmer, not cooler, if you go south. But the mountains may be cooler, even though farther south, and, of course, the coldest place of all is the South Pole! \"Well?\" The king leans forward impatiently.\n\nfo Tell ey S| S737 Sa PPPS re TAT BOS OSS SSG = eee / TERRA AR TL ww NN Seay Dm \\ = Seren SZ NEES eH RA Ra = Y.& Sa ge ae v3 ~~ ae) < O-8 ce vs 3 =e nee is 25 & -< os a2 Ss 5 a \" colder, If you say, ws sv ge 3 oY Og cs Bs =--= Da QS 6383 i. y 2s Es Bac = ay =",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 34.",
+        "next": "section_34",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 36.",
+        "next": "section_36",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_32",
+    "section_number": 32,
+    "title": "Toward Forbidden Castle",
+    "text": "You agree to help Madame Leeta find the Forbidden Castle. Soon afterward, there is a - knock at the door. It swings open, and a man ~ walks in. His face is very pale, as though he had > never been out in the sun. Behind him, through - the open door, you see a fine black steed anda - small chestnut horse. \"Ah, Baron von Sal-you are early,\" says - Madame Leeta. The man points to you. '\"'Who is this?\" 'A young soothsayer, who can help us solve the riddle of the Forbidden Castle.\" ''What makes you think so?\" \"Show him the magic disk,\"' she demands. You hold out your watch. The baron bends over and looks at it a moment. He nods gravely. \"Then come at once; a boat is already waiting to take us to France.\"' Madame Leeta rests a long, bony hand on - your shoulder. \"I knew you would come with us. The three of us shall find the Forbidden Castle, and half the kingdom of Wales shall be ours!\" ~ ee",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 48.",
+        "next": "section_48",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_33",
+    "section_number": 33,
+    "title": "Toward Forbidden Castle",
+    "text": "ter leaving Madame Leeta you try to retrace our steps back to the field where you first found yourself; Following a trail through the forest, you come to the hut of a woodsman who gives you food and drink. \"Where are you bound?\" he asks. _ \"T came here from another country and another century through the Cave of Time. I'm trying to find the entrance so | can return to my own time and my own home. Do you know of Me -You wonder if the woodsman will laugh at your strange story, but he nods his head and replies, \"You're not the first one to visit from another time and place. Since you arrived here, you have walked in a circle. The Cave of Time is almost beneath us. I could show you a tunnel that leads to it.\" \"IT would be most grateful,'' you say. \"T do not know how grateful you should be,\" he says. \"You might find yourself in a time when the world had turned to fire, or to ice!\"' You are happy to have learned how to get back to the Cave of Time, but, now that you know where it is, you wonder whether it wouldn't be fun to stay in medieval England awhile. Maybe you can solve the riddle and find the Forbidden Castle. If you decide to take the tunnel back into the Cave of Time, all you decide to stay in medieval England,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 40.",
+        "next": "section_40",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 41.",
+        "next": "section_41",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_34",
+    "section_number": 34,
+    "title": "Toward Forbidden Castle",
+    "text": "\"The Forbidden Castle is to the south,'\"' you © say, \"'but high in the mountains, where it is colder.\"' 7 The king begins to pace around the room. © Your heart is pounding. Will he praise you, or - send you to your death? Suddenly he turns, smiling. '\"There is wisdom - in what you say. I know that in the south of France there are mountains higher than any in - England, and their tops are covered with snow, while flowers-bloom in the valleys below. Now what is the rest of the solution?\"; You think of the next line of the riddle: Where that which falls stays where it is, but you can hardly even guess at the solution. Could it have something to do with the setting sun? The sun ~ falls below the horizon, yet really stays where it is... If you say, \"The second line has to do with the setting sun,\" If you say, \"We must go to the southern - mountains; then I will be able to tell you,\",",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 42.",
+        "next": "section_42",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 43.",
+        "next": "section_43",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_36",
+    "section_number": 36,
+    "title": "Toward Forbidden Castle",
+    "text": "'The Forbidden Castle is to the south,' you say, '\"'on the way to the South Pole, where it is cold!\" The king rises, his face reddening with anger. \"What nonsense are you telling me? What is this South Pole you speak of?\" Suddenly you realize that the South Pole can't possibly mean anything to the king. It won't be reached for hundreds of years! You try to answer, but the king roars at his guards. They pick you up like a sack of potatoes, and carry you through the door. \"Prepare for execution!' the king calls. \"And be quick about it!\" The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_37",
+    "section_number": 37,
+    "title": "Court And Castle",
+    "text": "_ You look the king in the eye. \"I would not _ bring sorrow. I mean no harm.\" _ Stillwell jumps up and down. \"He disobeyed - your highness's command to be silent.\"' \"Indeed he did.\" The king's face is red with anger. ''Take this impudent youth to the tower!\" Two guards lay hold of you and drag you out of the courtyard. Once outside, one of them ~ glares at you sternly. The other guard starts laughing, yet it is not a cruel laugh-his blue eyes are sparkling. \"The king does not know it,\" he says, \"\"but the _ tower steps have long since crumbled away. We have not been able to enter the tower for years!\" \"Then what will happen to me?\" \"Why, you will escape, of course!\" says the other guard with a laugh. Surprised and pleased _ by their rough kindness, you laugh too! _ The guards give you a pack filled with bread and cheese and fruit. They also give you direc- tions to Cotwin Castle. \"May you have better luck in King Henry's court. At least he is not mad.\" And so, you cross the drawbridge of Fiddlegate Castle and set out for Cotwin Castle. Bs:",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 14.",
+        "next": "section_14",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_39",
+    "section_number": 39,
+    "title": "Toward Forbidden Castle",
+    "text": "ou're afraid to disobey the king, so you say othing. \"Well,\" the king shouts. \"'Can't you speak?' g | Before you can answer, the jester says, \"I sug- gest you teach this youth a lesson!' \"Stillwell, only a fool like you would surely know what not to do!\" says King Rufus. 'Why haven't | locked you up in the tower?\" \"Because, your majesty,\" says Stillwell, '\"'if you were to lock me up, it would mean you'd made a mistake when you appointed me. Since you are perfect, you cannot make a mistake. Therefore, you cannot lock me up.\" The king scowls and paces up and down. Fi- nally he turns to you. \"You have fallen into my favor,\" he says. __ \"Tt would have been better to have fallen in the -moat,\"' says Stillwell. _ The king smacks Stillwell over the head with the flat side of his sword. Turning to you he says, \"Tf you agree to serve in my court, I shall make you one of my ministers!\"' The king seems to have taken a liking to you. He's mad, all right, yet there may be method to his madness. Maybe he would even help you find the Forbidden Castle. If you dare ask King Rufus to help you find the Forbidden Castle,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 44.",
+        "next": "section_44",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you agree to serve in his court, turn to section 45.",
+        "next": "section_45",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_40",
+    "section_number": 40,
+    "title": "Forest Road",
+    "text": "jive ie < J eat Rl Kt S$ QO Ped Fe &. eee Gate aes at 7) » NS > t 2 Melman wee Uae atts Aces vada ad ss = ra MSR Pane SUBS Sas The woodsman shows you the tunnel that leads to the Cave of Time. You thank him for his - help. Then, summoning your courage, you crawl | in through the narrow entrance. ' You shiver in the cold damp air as you inch - your way along the dark, musty passageway that - winds down into the depths of the earth. Sud- © denly you are falling, faster and faster, falling into the future! The time in the future toward which you are falling has not yet come. But it will, and, when it does; your adventure will continue. So it is only for a while that this is & The End x} Ss",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_41",
+    "section_number": 41,
+    "title": "Forest Road",
+    "text": "<e 41 By You agre that ne to the Cave of Time nay not be such a good idea, and ask the woods- man if he knows the way to King Henry's court. The woodsman gives you directions to Cotwin Castle. You thank him for his kindness and set _ out on your journey. __ Soon, heavy gray clouds begin to fill the sky. _ The wind blows harder. The sky darkens. You _ hear thunder in the distance. As you start across a broad field, sheets of rain suddenly pour down. You run to the shelter of a big pine tree. If only _ there were a house nearby! You have no rain gear and no place to go. In a minute there is thunder and lightning everywhere around RVOU...\\. If only you had remembered never to stay _ under a tree in an open field during a thunder- storm, your story would not have come so - quickly to The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_42",
+    "section_number": 42,
+    "title": "Court And Castle",
+    "text": "You look the king in the eye and try to sound ~ as if you know what you're talking about. \"'We see the sun fall below the horizon when it sets, - because the Earth is turning. The sun itself stays where it is!\" 'What do you mean, the Earth turns?' The king points his finger at you. \"You would try to make a fool of me! What you speak is heresy. Anyone can see that the Earth does not move, but it is the sun that travels around the Earth every day!\" If only you could show the king he is wrong, but the guards quickly seize you and drag you back to the dungeon. You wonder if you'll ever get out. You don't. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_43",
+    "section_number": 43,
+    "title": "Toward Forbidden Castle",
+    "text": "We must go to the southern mountains,\" you \"Then I will be able to tell you.\" The king frowns. He heaves a sigh and says,. \"Very well. I shall provide a ship which will take you to France-a day and a half's voyage from Dover, given a fair wind. There shall go with you the Earl of Kent and three of my best knights. Meanwhile, I shall gather my army together- enough men to conquer any castle-and we shall follow within the week. Soon all of Europe will be mine!\" He smiles a broad smile. Then, pointing a finger at you, he says, \"'But if you do not find the Forbidden Castle, I will see you hang from the tallest tree in England!\" Taking care to speak in the manner of the \"court, you say, ''Never fear, my lord, I shall find _this castle before the next full moon. Then, as the -monk foretold, all Europe shall do homage to your sword!\"' _ \"Well spoken,\" says the king. \"Now, make ready, lords, knights, and vassals. We journey to _ France!\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 57.",
+        "next": "section_57",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_44",
+    "section_number": 44,
+    "title": "Toward Forbidden Castle",
+    "text": "f 4 é © im. am Looking the king straight in the eye, you say, \"T thank you humbly for offering me such an honor, your highness, but I wish to find the Forbidden: Castle. Would you help me?\" The king shakes a finger at you. \"Impudent - youth! I am KING! You are my subject. I don't © help my subjects. They serve me!\"' \"Well, I can help you. I can win half the king- dom of Wales by finding the Forbidden Castle. © ~ Help me and I'll give you half of my kingdom.\" \"Half your kingdom? I'll take half again as much as a half,\" says the king. \"Pll give you half of half again as much as half,\" you quickly reply. \"Call the royal mathematician,\" says the king to Stillwell. Then he looks at you as he strokes his o long, droopy mustache. 'You may have wit enough to find the Forbidden Castle. Tomorrow we shall leave at sunrise. And by our deeds, Rufus shall be king of Wales!' The trumpeters blow their horns, and everyone bows as the king struts out of the royal courtyard. You stand there wondering whether you and he will find the Forbidden Castle. Perhaps the world will be better off if you don't!: The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_45",
+    "section_number": 45,
+    "title": "Court And Castle",
+    "text": "|: would be honored to serve in your court, my _ \"Very good,\" says the king. \"Tonight we shall have a banquet in my honor to welcome you.\" _ ~Stillwell leads you up a spiral staircase to your 'new quarters-a tiny room with stone walls, and nothing more than a bed of straw and a hole in the wall for a window. Your bed is almost as hard as the floor, but you lie down for a-nap, for it's been a long time since - -you've had a good night's sleep. It seems no 'more than a minute later when you are ~ awakened by a knock on the door. \"Who is it?\" \"A page, sent to say the banquet is about to _ begin!\" _ The page leads you down the long spiral stairs to the great banquet hall. Peering through the archway, you can see that most of the guests are already seated. Your mouth waters at the sight and smell of roast goose, onions, and gravy. As - you start to enter the hall a great hulk of a man blocks your way. \"You may not enter!\" he says. \"But the king himself invited me!\" \"The king did not invite you.\" __ \"4What do you mean?\" you ask. ''Who are you _ to contradict me?\" \"The Minister of Contradiction!\" he replies. \"What kind of title is that?\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 47.",
+        "next": "section_47",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_47",
+    "section_number": 47,
+    "title": "Court And Castle",
+    "text": "'It my web he says. \"Too many. Ppeople in; kingdom were contradicting each other, so 1e king banned it. He has decreed that all con- tradicting in the kingdom shall be done by me!\"' _ \"Ts everything you say a contradiction?\"' _ \"NO! The king has ordered me to contradict everything that is said by anyone but him.\" _ \"Then I can not come to the banquet!\"' you \"Oh, yes you can!\" he shouts. - He steps back a moment, and you dash into the hall and quickly take an empty seat at the grand table. On your left is an old knight with a long, sad face; on your right is a woman wearing a white dress adorned with lace. _ \"Who are you?\" you ask the woman. \"Tam the Lady in Red,\" she says. \"But your dress is white.\" ' \"How dare you contradict me?' she says. \"Only the Minister of Contradiction can do that.\" ' |",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 51.",
+        "next": "section_51",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_48",
+    "section_number": 48,
+    "title": "Toward Forbidden Castle",
+    "text": "Paina mae Cet IW I ee After a rough channel crossing and a ionic a travel across the French countryside, you and Madame Leeta and the Baron von Sal have fi- nally reached the south of France. The mountain trail you are climbing is steep, and you are all breathing hard under the weight of your packs. \"Are you sure the castle is in the mountains?\" the baron demands. \"Of course!'' Madame Leeta snaps. \"That's the only explanation for the first line of the rid- dle-somewhere south, where it is colder. If you _ go south, it gets warmer, unless you go into the mountains!\" _ Suddenly she stops and glares at you. \"But now it is time for you to tell us the solution to the second line of the riddle-where that which falls stays where it is.' \"Yes,'' says the baron. '\"'It is time fot you to use your magic disk!\"' You glance at your watch, pretending that it might be able to tell you something other than what time it is. Should you admit that you really have no magic powers, or should you bluff and hope that somehow you will solve the rest of the riddle and - find the Forbidden Castle? If you admit that you don't think you can solve the riddle, If you tell the others not to worry, that you'll solve the riddle soon,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 52.",
+        "next": "section_52",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 53.",
+        "next": "section_53",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_50",
+    "section_number": 50,
+    "title": "Cave Passage",
+    "text": "~ You step into the cave, then wait for your oye a to adjust to the darkness. But Michelle goes on a few feet ahead. Suddenly she cries out. \"Help, - I'm sliding!\" You grab her arm and try to pull her up, but now you're both falling... falling.. It is broad daylight. You and Michelle are both sitting in a field. There is a paved road nearby. A Greyhound bus is going by. A big tractor-trailer is right behind it. Whoosh, an oil truck whizzes by. Michelle screams. 'What are those monsters? _ What a noise! It is horrible!\" \"Everything's OK,' you say, as you look across the road at the familiar sign that makes you wonder how Michelle would go for a Big Mac and a shake. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_51",
+    "section_number": 51,
+    "title": "Court And Castle",
+    "text": "uming to the knight on your left, you ask, And who are you, sir?\" \"The Minister of Laughter,\" he says with a Jaugh. _ \"What does that mean?\" _ \"I decide what is laughable and what is not.\" He frowns. - You cannot help but laugh. _ The minister reddens. \"How dare you laugh without my permission?\": _ At that moment the king stands up and calls for 'silence. \"We welcome a new member of the court.\" Pointing at you, he says, \"Rise.\" - You stand up, and the king unrolls a long scroll. \"Hmm, we have just appointed a Minister _of Craftiness, a Minister of Happiness, a Minister of Inaction, and a Lady of Ladies in Waiting. There are only two openings left. Tell us which position you would prefer. Would you rather be 'the Minister of Guesswork, or the Minister of Sanity?\" _ You look around, hardly able to believe what 'the king has said. Only now do you fully under- stand why he is called the Mad King. Absurd as it 'is, you can see you'll have to pick one job or the other. If you say you'd rather be the Minister of Guesswork, If you say you'd rather be the Minister of: Baa Sanity,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 60.",
+        "next": "section_60",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 61.",
+        "next": "section_61",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_52",
+    "section_number": 52,
+    "title": "Cave Passage",
+    "text": "\"T really don't think I can solve the riddle,\" you say. os 'You impostor!\"' the baron cries. He lunges at you, but you are already running down the mountain. He races after you, and, as you look back, you see him trip over a rock and crumple to the ground. In a moment he is up again and limping after you, but you know that he'll never catch you! You continue down the mountain, following the sound of church bells until you reach the tiny village in the valley below. There you find refuge with a kind family. They offer you food and shel- ter in exchange for your promise to tend their sheep and goats. And so you begin a new life in which you resolve each day that, when you grow up, you will climb the mountains and find the Forbidden. Castle. Only then will you be ready to return to the Cave of Time. Ne Nae bi nil \"4\n\n|. oe 99 on.\" __ The baron grumbles, but you pay no attention to him as you lead your companions higher and higher up the mountain trail. If you can only get to the top, you'll be able to see for miles in all directions. - You keep climbing. It's getting cold, and you - seem nowhere closer to the top. You pause to rest, not daring to look the baron in the eye, and at that moment you hear, very faintly, a rushing sound. Is it the wind, or is it water? \"Follow me,\" you say, and you start climbing _toward the sound. Madame Leeta and the baron follow eagerly. You cannot be sure where you are. headed, but at least you are getting somewhere.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 54.",
+        "next": "section_54",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_53",
+    "section_number": 53,
+    "title": "Crossing The Water",
+    "text": "|. oe 99 on.\" __ The baron grumbles, but you pay no attention to him as you lead your companions higher and higher up the mountain trail. If you can only get to the top, you'll be able to see for miles in all directions. - You keep climbing. It's getting cold, and you - seem nowhere closer to the top. You pause to rest, not daring to look the baron in the eye, and at that moment you hear, very faintly, a rushing sound. Is it the wind, or is it water? \"Follow me,\" you say, and you start climbing _toward the sound. Madame Leeta and the baron follow eagerly. You cannot be sure where you are. headed, but at least you are getting somewhere.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 54.",
+        "next": "section_54",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_54",
+    "section_number": 54,
+    "title": "Toward Forbidden Castle",
+    "text": "You walk along the side of the curving moun- tain path. Soon you come to a clearing. From here you can see a spectacular waterfall, and beyond that the gleaming white walls, the four towers of the Forbidden Castle! Ul re 1 ile Use YY AW) f Ue VAY) {ma he Z <r ee ay Bs WA) G ' 2 2 =o tte Ae if == = wo (i ll Z ji U 7 ' --S! aa",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 56.",
+        "next": "section_56",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_56",
+    "section_number": 56,
+    "title": "Court And Castle",
+    "text": "You and Madame Leeta and the baron hurry over the rocks, and continue along the steep, twisting trail. Finally, almost breathless, you reach the castle gate. A tiny woman dressed in a long gray habit comes forth to meet you. 'Tam Sister Anna,\"' she says, \"'and I welcome ou.\"' 'Who is the ruler of this castle?\" demands the baron. \"There is no ruler. The castle is tended by the Sisters of Hope,\"' the woman replies. \"'It is used only as a refuge for the poor and sick.\"' \"Ah!\" the baron exclaims. \"Then King Henry will have no trouble conquering it. As the monk foretold, he shall become ruler of all of Europe, and I shall become ruler of half of Wales!\" \"He could conquer it,' Sister Anna says gently, \"but he will not. To do so would violate the code of chivalry, and he would soon be be- sieged by all the princes and knights of Europe.\" '\"'Achh,\" the baron cries. \"'She is right! King Henry will never rule Europe, and | shall never rule Wales! We have journeyed here for nothing!... nothing!... nothing!...\" The baron turns and starts down the trail. Madame Leeta runs after him, screaming, ''Stop! Stop! I led you here, and now you must pay me!\" Sister Anna smiles at you. \"You have traveled a long way. Stay with us for a while. Listen, observe, and meditate, and you will find your journey worthwhile.\"'",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 66.",
+        "next": "section_66",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_57",
+    "section_number": 57,
+    "title": "Toward Forbidden Castle",
+    "text": "Send half at the next day fosting. down Thames River on the royal barge. It docks in London, and though you are eager to see the ancient city, the Earl of Kent has other plans. He swings you up onto his horse and begins riding toward the southern shore. __ The smell of the fresh sea breeze and the flocks of gulls circling overhead tell you that you have arrived in Dover, where one of King Henry's ships is waiting to take you across the English Channel. You are glad to be safe for the moment. But you keep thinking about what will happen to you if you can't find the Forbidden Castle. The more you think about it, the more you think you'd better escape. Early the next morning, you, the earl, and three of his knights set sail on one of the royal ships. The voyage is a smooth one, and shortly before noon the next day, you step onto the fertile soil of France. The Earl of Kent and his knights mount their powerful war-horses. You are ordered into the back of a wooden cart. Though the ride is bumpy and you would rather be on one of the horses, you begin to enjoy the beautiful countryside. _ It is late afternoon when you come to a tavern. \"We will stop here,\" the earl calls to the driver. \"It is time to load our casks with good French wine. You will wait here; we shall not be long.\"'",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 59.",
+        "next": "section_59",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_59",
+    "section_number": 59,
+    "title": "Crossing The Water",
+    "text": "They step inside, and you are alone with the driver. He climbs down and walks ahead to check the horses' harmess. As he tightens a leather strap, you realize this may be your only chance to escape. You survey the scene around you. Open pas- tureland lies on both sides of the road, and there is no place to hide, unless you make it to the bridge a hundred yards or so down the road-the land beyond it is thickly wooded. Fe S647 y (MUTE 7p OO FIE be Wii ue CIEE M4 it:\n\nIf you decide to seize the reins and urge the horses onward,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you decide to jump out and run for it, turn to section...",
+        "next": "section_62",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 63.",
+        "next": "section_63",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_60",
+    "section_number": 60,
+    "title": "Court And Castle",
+    "text": "\"IT would like to be Minister of Guesswork 3 you Say. _ The assembled lords and ladies clap their hands and cheer. The king pounds on the table to silence them. 'Good choice,'' he says. \"One thing | have learned in this life.is that no one can be sure of anything. Therefore we need someone who will guess at everything.\"' Again the lords and ladies cheer, and again the king bangs on the table until everyone is silent. Then he frowns, and wiggles a finger at you. ''But I warn you that I expect the highest standards of performance from my ministers. Are you abso- lutely sure that you are capable of serving in this high position?\" You think a moment, and then reply, \"I guess so.\" The lords and ladies cheer. \"Well said!\" cries the king. 'You will make a _ _ fine Minister of Guesswork!\"' The Lady in Red and the Minister of Laughter pat you on the back as you begin your dinner. You reflect that, if you stay in the mad kingdom, you will soon be as crazy as everyone else. But the roast lamb and peach pie are the best you've ever eaten. Maybe Rufus is not as crazy as all the other kings and lords who spend their lives fight- ing each other. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│           COURT AND CASTLE           │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_61",
+    "section_number": 61,
+    "title": "Court And Castle",
+    "text": "'ll be Minister of Sanity,'' you say in a loud, lear voice. ae _ Your statement is met with groans and moans. Some of the lords and ladies begin to cry. Others throw up their hands in protest. _ The king stands up; his face is pale. 'I only said 'that as a joke-yet you accept it? This is near treason. We have never had a Minister of Sanity, and never will. It would undermine the very prin- ciples on which our kingdom is founded.\" 'We must not have it!'' cries the knight sitting near you. 'Send this felon from our midst!' \"It's time for a hanging,'' says another. \"To the stake!'' a lady shouts. \"This is madness!'' you cry. Everyone rises and cheers. \"Ah, that is what we want to hear!\" says the king. \"What you say is worthy of us all, and of you, too. Henceforth you shall be Minister of Madness, the most important minister in the kingdom!\" _ \"Three cheers for our new minister,\" yells Still- well, the jester. Standing, you bow and thank the lords and ladies and the king. \"T'll do my best,\" you say, _ \"to uphold the king-to laugh at sadness, cry at 'smiles, and keep this kingdom free from logic, sense, and all that's wise.\" The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_62",
+    "section_number": 62,
+    "title": "Forest Road",
+    "text": "BS; = iP y/] > s L Ae hee Me Ze (|| RATT, sah Ny Oh AY. Y w \\ i} j y tk ot ANU 5 Y i ers $ rrirTnty CSI REAM \\ \\ D iy N You jump out of the cart and race down the road. The bridge up ahead spans a swiftly flowing river. The woods beyond it should offer you a good hiding place. But maybe you could throw Henry's men off the track by doubling back and hiding behind the tavern itself. If you try to make it across the bridge,: If you run behind the tavern until you can decide what to do next,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 65.",
+        "next": "section_65",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 6/5",
+        "next": "section_6",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_63",
+    "section_number": 63,
+    "title": "Court And Castle",
+    "text": "; cart, and take ek reins. Vou crack the Sh overhead, and the horses lunge forward, knock- ing the driver to the ground. As the heavy ooden wheels roll past, he scrambles for the de of the cart. You bring the whip down again, houting, but the driver has climbed into the cart. uddenly, one burly hand is on your shoulder; the other grabs the reins and slows the horses from their run. You are filled with dread as he steers the cart back to the tavern where the knights are waiting. \"So, my little friend,\" says the earl, '\"'you _ would betray the king. Our search for the Forbid- _den Castle will continue-as soon as you are _ hanged!\" _ The rest of your adventure is too sad to tell. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_65",
+    "section_number": 65,
+    "title": "Forest Road",
+    "text": "ou run as fast as you can. As you reach the. ge, you look back toward the tavern. The Earl f Kent and his knights are galloping toward you, their swords drawn. - You force yourself to run even faster. Your | | heart is pounding. As you start across the narrow bridge, you hear the horses right behind you. And you jump! Your right leg hits a jagged boulder. Then you feel only the shocking numbness of the icy water. You struggle to keep your head above water. You gasp for air. The racing current sweeps you downstream. Again and again the swirling black water pulls you under. You are barely conscious now. The current has swept you against a fallen tree. The water is calmer. You work your way ashore and crawl up the steep muddy slope. As you reach the tall grass along the bank, you collapse. Your leg is bleed- 'ing, and you feel so exhausted and bruised that you hardly care whether or not you're alive. _ That's a good thing, because in a minute you won't be. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_66",
+    "section_number": 66,
+    "title": "Dragon Encounter",
+    "text": "The Sisters of Hope give you a room of your > own. Each day they tell you wonderful stories of - kings and knights and dragons. You learn to weave tapestries and play the lute. You swim in the sparkling pool beneath the waterfall, and ride _ the mountain ponies. But, as good as life is, you become more and more homesick. \"What is troubling you?\"' Sister Anna asks one day. 'I dream of finding the entrance to the Cave of Time so that I can return to my home in the twentieth century.\" \"It need not be a dream,\" she says and hands you a tiny wooden pipe. \"If you blow on this reed, it will summon the unicorn. You need only follow it, and it will lead you to the Cave of Time.\" Your eyes open wide. \"But | thought unicorns never really existed.\" \"Oh, but they do,\" she replies, 'though you will find it difficult to believe when you return to your twentieth century. You may not even be- lieve you visited the Forbidden Castle, and yet you will not forget it. As you dreamed of your own home here, so will you dream of the Forbid- den Castle when you return to your own time.\" The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_win",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_67",
+    "section_number": 67,
+    "title": "Forest Road",
+    "text": "You dash around the side of the tavern, keep- ng as low as you can, so as not to be seen hrough the casement windows. As you round _the rear comer, you almost crash into a young girl - with the longest braids you've ever seen. _ \"What are you running from?\" she asks, but _she gives you no time to answer. \"My name is Michelle. I live in the tavern. Come, I will show you where to hide.\" ~ You follow her down a steep flight of stone steps, through a dark passageway, and into a small room filled with casks of wine. The only - light comes from a few cracks between the stones 'in the wall. \"Twill bring you food and milk when it is safe,\" _ she says. Then she turns and hurries up the stairs. You sit in the cellar, wondering what will be- come of you. When will Michelle return? You _ would like to sneak upstairs to get some food, but you don't dare. King Henry's knights will surely _be looking for you. A few minutes later the door swings open, and 'Michelle steps in, carrying a plate heaped with food. 'T_amb, pears, and fresh bread,\" she says. \"The cook is a friend of mine. I've good news, too. The English knights have left. They think you _ are hiding in the woods.\":",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 68.",
+        "next": "section_68",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_68",
+    "section_number": 68,
+    "title": "Section 68",
+    "text": "While you eat, you tell Michelle about every- - thing that has happened since you arrived in England hundreds of years before your birth. | She listens intently, and when you have finished she says, \"It is a strange story you tell, but I am very glad you have come. My parents died when I was a small child. The innkeeper said I could live at the inn if | swept the floors and helped the cook. Now he works me night and day, and beats me if I complain. I have been afraid to run away alone, but we can go together.\" \"How?\" \"The cook will give us packs of food. I will take blankets and two good horses. The moon will be _ full tonight. We will ride the road south. There is just one more thing. You cannot expect to hide ~ from anyone in those clothes. See what I've brought?\" She hands you a small bundle. \"Put these on!\" It is near midnight when Michelle comes to get you. A few moments later the two of you gallop down the road, free!",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│──────────────────────────────────────│",
+      "│░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│  ",
+      "│──────────────────────────────────────│",
+      "│░░░░░░░░░░░░░░░░●░░░░░░░░░░░░░░░░░░░│  ",
+      "│──────────────────────────────────────│",
+      "│░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│  ",
+      "│──────────────────────────────────────│",
+      "│         Open ground and sky           ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 81.",
+        "next": "section_81",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_71",
+    "section_number": 71,
+    "title": "Dragon Trail",
+    "text": "Re | qa ou and Michelle follow the trail to the west, which winds around the steep hillside. The sun is beginning to set when you see a rambling build-. ing made of stones and logs. Wild flowers and ferns are growing on the sod-covered roof. Goats and sheep graze nearby. \"This must be a monastery,\" Michelle says, - \"but look, someone is using it as a farm.\"' As she _ speaks, a man walks out of the building. __ \"And who are you?\" he asks. \"We are travelers from the north,'' says \" Michelle. \"'And who are you?\" i - \"Auguste le Bon,\"' he replies, \"'late of service _ to the Prince of Lyon, but now I tend this farm for - _ the Philosopher Knights.\"' __ Auguste takes you inside and gives you bread and cheese and warm broth. He tells you that the Philosopher Knights spend most of their time studying philosophy and playing chess, but they are at present visiting the court of the Prince of Lyon, who, it seems, fears an invasion by Henry, King of England.. ~\"Naturally, he has called upon the Phi- _ losophers for advice,\" says Auguste. _ Auguste asks if you would like to spend the Sight and you and Michelle gratefully accept. In _ the morning you ask Auguste if he thinks you can ~ safely get past the Dragon of the Ledges.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Goon to section 72.",
+        "next": "section_72",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_72",
+    "section_number": 72,
+    "title": "Dragon Trail",
+    "text": "\"T cannot answer that,'\"' he says, ''for I have - never known anyone to try. But I know of a - secret trail through No Man's Forest. It is possible to get through safely, though there is great risk. I will be glad to show you the way, if you like. Whichever route you take, you must travel on foot, for the dragon trail is too steep and rugged, and the trail through the forest is sometimes no more than a tunnel through the thorns.\" Michelle beckons you aside. \"What do you think?\" she says. _ You're tempted to choose the dragon trail. After all, youre from the twentieth century and you know that dragons never really existed. On the other hand...\n\nIf you decide to wait at the farm until the Philosophers return,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you decide to go through No Man's Forest, turn to sect...",
+        "next": "section_74",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you decide to take the dragon trail, - turn to section...",
+        "next": "section_77",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 78.",
+        "next": "section_78",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_73",
+    "section_number": 73,
+    "title": "Forest Road",
+    "text": "ou and Michelle ride to the east-through forests and meadows, over hills and through val- VS. It is well past midday when you unsaddle your horses and sit in the shade of a towering elm tree to rest and eat. As you prepare to resume your journey, two men approach on foot. They are dressed in _ peasant clothes, though one of them wears a gold _ medallion on his chest. \"Is it far to the southern mountains?\"' you ask them.:. \"The mountains are only a day's journey to the south, across the lands of Count Gaston,\" replies one of the men. ''You will find the trails so steep that you will not be able to use your horses, but - we shall take care of them for you.\" \"What do you mean?\" Michelle cries. Suddenly, the men untether your horses! \"What are you doing?'' Michelle shouts. - \"Stop!\" But the strangers mount your horses and ride off ata brisk trot. You run after them, but there is no chance of catching up. Your horses are gone _ for good. _",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 80.",
+        "next": "section_80",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_74",
+    "section_number": 74,
+    "title": "Forest Road",
+    "text": "You and Michelle follow Auguste through a © forest of towering pines. Late in the day you reach a slow-moving, muddy stream. A huge fallen tree forms a bridge across it. Beyond the stream are the thickest woods you've ever seen. \"You can camp here for the night,\"' says Au- guste. \"The trail through No Man's Forest begins at the other end of the bridge. If you start out at dawn, and travel at a good pace, you will be safely through the forest by sunset. But do not stop to rest. The snakes come out at night.\" Early the next morning you and Michelle care- fully cross the bridge and set out on the trail through No Man's Forest. You follow a twisting route which winds around great clumps of thorns and plunges down into gullies and up steep ridges. Each of you carries a stick to brush aside the thorn branches which hang down across the path., You walk briskly along without rest, until the sun sinks low in the western sky and the forest grows darker. If only you knew how much farther you had to go! \"lam so tired I can barely walk,\" says Michelle. \"Can we stop for just a few moments?\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you agree to rest for a few minutes, turn to section 116.",
+        "next": "section_116",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you insist on pushing on, turn to section Hg",
+        "next": "section_79",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_77",
+    "section_number": 77,
+    "title": "Dragon Trail",
+    "text": "Te oe.et's take a chance, and follow the dragon trail,\" you tell Michelle. _ You thank Auguste for his help, and start up the narrow winding trail that leads past the Dra- gon of the Ledges. You've been traveling about half a day when Michelle stops, so quickly that you bump into her. - Looking ahead, you see that the trail leads into a clearing. Scattered about are piles of bones- whether animal or human you cannot tell. Sud- denly, you hear a hiss. A puff of smoke floats toward you from behind a huge boulder at the far end of the clearing. _ Michelle clutches your arm. \"'The dragon! It is just beyond that big rock!\" \"In the twentieth century, we don't believe in dragons,\" you say. _ \"You are not in the twentieth century!\"' says Michelle. 'Believe me, there are dragons in this century!\" You stay absolutely still. The hissing continues. Puffs of smoke drift toward you. You try to keep. from coughing. You wonder whether you can outrun a dragon. You're scared, but you are also. curious.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│             DRAGON TRAIL             │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you continue on through the clearing, turn to section 82.",
+        "next": "section_82",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you retreat, turn to section 85.",
+        "next": "section_85",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_78",
+    "section_number": 78,
+    "title": "Toward Forbidden Castle",
+    "text": "\"Tet us wait for the Philosophers to return,\" - you say. Michelle agrees. When you tell Auguste that you do not wish to go to No Man's Forest, he shakes his head. \"Well,\" he says, \"I cannot blame you, for the - path I would have shown you is a dangerous one. The truth is that, in this country and in these times, whatever you do, the odds are against you.\". For the next two days, you and Michelle help Auguste feed the chickens and milk the goats. At dusk you take one of the dogs and bring the sheep in from the pasture. It's good to have a break in your travels, but you can't stop thinking about the Forbidden Castle. You ask Auguste what he knows about it and he shudders. '\"Terri- ble things have happened there. It is best you do not ask.\"' You are glad when you finally see the Phi- losophers riding up the road. They are a scraggly- looking lot-of all ages and manner of dress-but they introduce themselves politely, and thank you earnestly for helping Auguste take care of the farm.. That evening you sit down to a dinner of mut- ton and beans. The food is good, but the Phi- losophers pay no attention to you or Michelle. Instead, they spend the whole meal arguing over whether a waterfall makes a noise when there is. no one close enough to hear it. After dinner they retire to their chambers, except for Sir Bertram and Sir Gregory. \"Where are you bound?\" asks Sir Bertram. \"To the Forbidden Castle,\"' you reply. Sir Bertram raises his eyebrows. \"Then you |,: is",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_79",
+    "section_number": 79,
+    "title": "Dragon Trail",
+    "text": "x WA Lp) GA jig, YT GIGS: yy WEEE Uy Vi PLA PLLA SS CSET... LL LUE ALE must take the trail past the Dragon of the Ledges. Am I not right, Sir Gregory?\" \"Quite so,\" Sir Gregory replies. \"But do not be alarmed- it is simple enough to scare the dragon ~ away. Catch a few mice, put them in a cage, and let them loose in front of the dragon. Then just keep out of its way when it runs.\" \"How do you know the dragon will be afraid of mice?\"' you ask. _ \"It is simple, just a matter of logic: all elephants are afraid of mice. Elephants are large animals. _ Therefore all large animals are afraid of mice. _ Since dragons are large animals, all dragons must be afraid of mice.\" If you decide to follow Sir Gregory's advice,; If you decide not to follow Sir Gregory's. Ng advice,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│             DRAGON TRAIL             │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 86.",
+        "next": "section_86",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 87.",
+        "next": "section_87",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_80",
+    "section_number": 80,
+    "title": "Forest Road",
+    "text": "Ces Using the sun as your compass, you and - Michelle continue on foot, heading southeast, hoping that you may safely pass through Count Gaston's lands without being seen by his men. Later that day, after traveling through a pine forest, you are glad to see a broad stream up ahead, and rolling fields beyond it. \"I think we have reached the lands of Count Gaston,\" says Michelle. No sooner has she spoken than you hear the howling of a wolf behind you; then another to one side-much closer. And another! \"They are on our trail,\" says Michelle. \"It will not be long before they find us.\"' As she talks, you look for something to use as a weapon. You pick up a fallen branch and break it in two. Now you have a good club. You can - probably defend yourself against a single wolf, but you hear others, much closer! The pack is 'Closing in. Michelle points to a tall pine with branches reaching almost to the ground. \"'Quick! Climb up into that tree.\" You had the same thought, but another idea occurs to you. If you could walk through the stream for a way, the wolves would lose your scent, and you could escape on the other side of the stream. tT ene ae 4 & ae ee: Oy - If you tell Michelle to follow you, and run for _ the stream,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you run to the tree and climb it, © turn to section 88.",
+        "next": "section_88",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 89.",
+        "next": "section_89",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_81",
+    "section_number": 81,
+    "title": "Dragon Trail",
+    "text": "r two days you and Michelle ride the trail outh, stopping only long enough to get some leep and let your horses rest. On the morning of the third day, you reach a ork in the trail, where you meet a shepherd. '\"\"Good morning, friend,\" you say. \"Could you ell us which trail will take us south to the moun- tains?\" _ The shepherd looks at you wuiceall: and - shakes his head. \"'I could not say, except to say you cannot go south by going south.\" _ 'What new riddle is this?\"' Michelle demands. \"It is no riddle,\" the shepherd replies, '\"'but a simple truth, for to the south of us lies No Man's Forest, where the trails are blocked by thickets nd thorns, and deadly snakes await you under- oot and above, dangling from the trees. So, if ou want to go south, you first must go east or est.\". 'What lies to the west?\" you ask.: The shepherd frowns, and says, ''The trail to _the west winds up around high, rocky hills, where the January wind blows in July and the Dragon of the Ledges waits for foolish travelers.\"' _ \"And to the east?\" asks Michelle. \"To the east are the lands of the Count Gas- ton, where half the wolves in Europe roam.' You and Michelle exchange glances. '\"We can- not turn back now,\"' she says. \"We must go east or west. They both sound bad to me.'\n\nhaul you head east,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you head west, turn to section 71.",
+        "next": "section_71",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 73.",
+        "next": "section_73",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_82",
+    "section_number": 82,
+    "title": "Dragon Encounter",
+    "text": "'We've come this far,\" you whisper to Mi- chelle. \"I'm not going to tum back now.\" _ As quietly as you can, the two of you pick your way through the bleached white bones, hoping. the dragon will not hear you. Michelle regains her courage and follows close behind. But the hissing grows louder. Sparks, glowing cinders, and bil- lowing puffs of smoke fill the air. Looking down, you see the empty eye sockets of a human skull staring up at you. Gritting your teeth, you con- tinue past the rock, steeling yourself to face the dragon. There before you is a fire of blazing pine boughs. Sitting beside it is an old man with a long, white beard. He holds a blacksmith's bel- lows to the flames and blows fire and sparks _ toward you. You jump back just in time to avoid - being singed by the leaping flames. He seems too busy to notice you, as he lifts a ram's horn to his mouth and blows an eerie, wailing blast-the terrible sound of the Dragon of the Ledges! Michelle runs up, Jaughing. The old man lays down his bellows and his horn. He stands there-hands outstretched. \"You have met the dragon,\" he says. \"You are the first who dared come so close!\" \"Ah ha!\" says Michelle. ''Wait until the Prince of Lyon learns your secret!\" \"Please, please.\" The old man holds out his arms to you. \"I am an escaped serf. If they find me, they will hang me.\" Soa",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│           DRAGON ENCOUNTER           │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 84.",
+        "next": "section_84",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_84",
+    "section_number": 84,
+    "title": "Toward Forbidden Castle",
+    "text": "\"We will keep your secret,\" \" you say, 'Sf you | will just guide us on our way.\" a \"And where are you going?\" he asks.; \"We are searching for the Forbidden Castle.\" The old man looks wistfully upward for a- \"moment. ''...That which falls but does not move...\" he says, smiling. \"That's part of the riddle!\" \"Will you keep my secret if I tell you the answer?\" \"Yes!\" \"Then follow me.\". The old man leads you further along the steep winding trail, up over a high ridge. From the crest the land drops down into a steep gully, and then rises up to become a magnificent snow-capped peak. He holds a finger to his lips. '\"Listen.\"\" You stand there, straining your ears. Across the ravine - you can barely hear the faintest rushing sound, as faint as a memory.. \"A waterfall!\" Michelle exclaims. The old man smiles. 'That which falls stays where it is!\"'! You thank the old man and wish him well, and you and Michelle hurry on along the trail with renewed energy and high spirits.;",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 91.",
+        "next": "section_91",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_85",
+    "section_number": 85,
+    "title": "Toward Forbidden Castle",
+    "text": "n't Avant our bones. boing in that pile,\" you all Michelle. ''Let's head back the way we me i Michelle wastes no time hurrying back down 1e trail, and you are right behind her. For a long time neither of you speaks. It looks if you have given up your best chance to reach the Forbidden Castle. Sad, you descend the nar- TOW, winding trail leading back toward the farm. _ The afternoon sun has grown hot when Michelle points out a lake not far off your trail. \"Let us go there to rest and get water,\"' she says. You cut through the woods to the lake, and gratefully sit on a rock and dangle your feet in the cool, clear water. _ Then you both notice the same thing-a plume o smoke rising from the opposite shore. \"That looks like a campfire,' you say. \"Let's a who's there. They might be able to guide us 'to a trail to the southern mountains.\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 94.",
+        "next": "section_94",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_86",
+    "section_number": 86,
+    "title": "Dragon Trail",
+    "text": "Sir Gregory gives you a box trap and some cheese. You have no trouble catching a couple of mice in the barn, and the next morning you and Michelle set out on your journey. Following Sir Gregory's directions, you head for the dragon trail. But there are many forks and branches _ along the way, and by mid-afternoon you are totally lost. All you can do is to continue on, hoping to find food and shelter. Finally, cold, hungry, and exhausted, you and Michelle lie down to rest. '",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│             DRAGON TRAIL             │",
+      "│                                      │",
+      "│                                      │",
+      "│                                      │",
+      "│                 ●                    │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 96.",
+        "next": "section_96",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_87",
+    "section_number": 87,
+    "title": "Dragon Encounter",
+    "text": "You ask Sir Bertram his opinion of Sir Greg- ry's advice. He laughs. ''Nonsense! Just because all elephants are afraid of mice doesn't mean all _large animals are afraid of mice. But if you blow ona goat's horn, the dragon will leave you alone. It must be so, because the Duke of Foussy once saw a dragon outside his castle. He leaned out the window and blew on a goat's horn. Soon afterward the dragon went away!\"\n\nIf you decide to ask one of the other Philosophers,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you decide to follow Sir Bertram's advice, turn to sec...",
+        "next": "section_97",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 99.",
+        "next": "section_99",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_88",
+    "section_number": 88,
+    "title": "Forest Road",
+    "text": "You climb up the tree, right behind Michelle. In \" an instant the wolves are below you. They leap - up against the tree trunk. You and Michelle are - trapped. There is nothing to do but wait. Hours later, when darkness begins to fall, the - wolves are still there. Some of them are napping. One of them quietly licks his paws. Another howls mournfully, while a third wolf sits motionless, staring up at you. You huddle against the cold through the long, dark night. The early morning light reveals no sign of the wolves, and you are eager to be down from the tree and on your way. \"Shall we continue,\" asks Michelle, ''or wait a couple of hours to make sure they are gone?\"'",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you say, \"Let's go now,'' turn to section 100,",
+        "next": "section_100",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_89",
+    "section_number": 89,
+    "title": "Toward Forbidden Castle",
+    "text": "You and Michelle quickly reach the stream. the water is cold, but you wade easily down- 'stream, for the water hardly rises above your knees. Finally, you feel you've come far enough to lose the wolves. __ After picking your way over round, slippery rocks, you emerge on the other side of the stream. Through the woods you can see a freshly ploughed field. You hurry toward it. You have no sooner reached the field when you hear the pounding of hoof beats. A moment later three horsemen come over a rise, riding straight for you. Two of them look like common knights, but the third has a dome-shaped helmet topped by a sharp-pointed spike. His face is cov- ered by a full, black beard, so that all you can see of him are his steel-gray eyes. __ \"Who are you to set foot on the lands of Count: Gaston?\" he demands. _ You start to explain, but he interrupts. \"Have you not heard of me?\" _ You nod your head. \"Then know that I fear no one. Now, what is your purpose here?\"' _ 'We are looking for the Forbidden Castle,\" Michelle says.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 90.",
+        "next": "section_90",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_90",
+    "section_number": 90,
+    "title": "Toward Forbidden Castle",
+    "text": "The count latighe \"You are neither wise enough nor strong enough to reach the Forbid- den Castle, for it is high in the mountains to the south. You may pass safely through my lands on your journey, or, if you like, I shall permit you to remain here in my service. You will live well, and you will learn more than you could by journeying all over Europe. If you stay, know that it shall be for not one day less than a year! And at the end of that year, if you wish, I, myself, will guide you to the Forbidden Castle!\" \"Can you just tell us how to get there?' you ask. \"IT have said what I intended to say,\" the count replies. \"You must make your decision now!' If you continue on through the lands of Count Gaston,",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 103.",
+        "next": "section_103",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you agree to remain in the count's service, turn to se...",
+        "next": "section_17",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_91",
+    "section_number": 91,
+    "title": "Toward Forbidden Castle",
+    "text": "ey 7 4 OB LA aT a i gala 454 HAY EO OT TAN ROL LM OP CD, i D> 4 p Bara Ar aaa ne WOR OTL PLLA ALLA: The trail descending into the ravine is steep and rugged, and you are glad to reach the bottom _ safely and begin the long climb up the mountain- _ side. When you finally reach the ledge and look straight into the silvery cascade, the waterfall 'roars in your ears. The pines and ferns glisten with spray. You work your way around to the left of the falls, and climb to a higher ledge. There it is! Gleaming in the late afternoon sun- light, walls built upon walls-massive blocks of chalk-white stones, and, soaring above them, four ivory towers that seem to pierce the moun- _tain sky. The Forbidden Castle! _ \"Never have I seen anything so beautiful!\" Michelle says. Then, looking back toward the valley below, 'you see a line of mounted horses. At least a hundred men are following on foot. __. \"Michelle, it's King Henry! He must have traced our path!\" | | | | |",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Go on to section 92.",
+        "next": "section_92",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_92",
+    "section_number": 92,
+    "title": "Toward Forbidden Castle",
+    "text": "iii = = eae afim=- wea) ms te Capa SIN Goel) GIs Sige eae Gx \\ \"¥ Y j ow y Z - / Phe a Ado nY 0 ae ee wv, 1 GS Ha A MG WN YO EFY YING MUOLE WW ELE MLE DOLL \"Do you think he can conquer the Forbidden Castle?\"' she asks. You and Michelle run still higher, toward the castle. Strange to see, the drawbridge lies open. There aren't even chains or ropes by which it could be raised. A tiny woman wearing a long gray habit comes forth to greet you. 'Welcome! I am Sister Anna.\" \"Good day, Sister,\"' you say. \"Where is the prince who rules this great castle?\" \"And why is it called the Forbidden Castle?\" Michelle adds. Sister Anna smiles. 'There is no prince, nor knights here-only the Sisters of Hope. You see, once a great prince ruled this castle, attended by a splendid court, but a plague swept across the lands and wiped out all the lords and ladies who lived here-every one! For years no one dared to come near, and so it became known as the For- bidden Castle. \"But we vowed not to be afraid of plagues, whether borne by rats, or kings, or knaves. We a ee\n\nAL OK AO RIK £4 iy) i y Bi asty WY Wa f WD Le oy GEILE came to tend the sick and helpless. Since then, good fortune has come to all who have visited 'here in friendship.\" As Sister Anna is speaking, the third line of the riddle comes to your mind-\"You'll find what isn't what it is.\"' _ \"Ts this a castle, or isn't it?' you ask. _ The sister smiles. \"\"You need only look at it to see that it is a castle,\" she says. ''And yet it is not _a castle, with a lord and his vassals, but a refuge for the poor and the helpless. Therefore, it isn't what it is!'' _ You have been so amazed by the sister's story _ that you have forgotten about King Henry and his army. But now you hear bugles blowing, shouts, _and the sound of horses! _ Other sisters come forth from the castle. You and Michelle step aside as they form a line to block pe oy and his Pave army.\n\nBoy GY)",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 114.",
+        "next": "section_114",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_94",
+    "section_number": 94,
+    "title": "Toward Forbidden Castle",
+    "text": "As you reach the other side of the lake, Mi- chelle stops short. 'Listen! Do you hear the music?\"? You cut through the woods and slowly creep to the edge of a clearing. Before you are three brightly painted wagons. It is a gypsy camp! Horses, dogs, goats, and chickens are scattered about. A dozen or so people are sitting around a fire. One man shakes a tambourine; another strums a lute. Children are darting in and out, and a woman is dishing up steaming stew from a huge iron kettle. Near you, a dark-haired boy, a little older than you, is soothing a colt, 'Whoa, Lightning. What frightens you?\"' The colt stares in your direction, and the boy shouts to the others. In a moment the gypsies surround you, all of them talking at once, 'Who are you?\" \"Where did you come from?\" \"Where are you going?\"' \"We are looking for the Forbidden Castle,\" says Michelle. The gypsies laugh. | \"If it is forbidden,\"' says the boy, \"'then it can- not be a good thing to find. Why not forget it? Join our band, instead!\" \"Yes! Yes!' shout the others. \"But the castle...,\"» you begin. The gypsy boy takes your wrist and stares at your open palm. \"You have already faced great danger. If you continue, far greater danger awaits you.\"' He drops your hand and grins. \"If you stay with us, you can ride horses, and swim streams, and have more fun than you would have in any castle.\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_95",
+    "section_number": 95,
+    "title": "Journey's End",
+    "text": "Michelle, who has already put on a crimson scarf. \"Let us stay here a while,\"' she says. _ \"All right,\" you say. 'I've always wondered _ what it's like to be a gypsy.\" _ Anolder man places the lute in your hand. You pluck the strings, and listen to its rich tones. \"You shall learn to play,\" says Michelle, \"'and I shall learn to dance!'' She joins the circle of peo- ple whirling round the fire to the beat of the tambourine. You begin to pick out a tune on the lute. With each note, the twentieth century drifts - farther away. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_96",
+    "section_number": 96,
+    "title": "Toward Forbidden Castle",
+    "text": "ae You wake up, to find yourself lying in a crude > bed in a tiny room with walls of straw and clay. Michelle is nearby-still sound asleep. A woman is standing over you. She is dressed in simple peasant clothes. You manage to sit up, though you still feel weak and dizzy. She props a pillow behind you. \"Here, drink this. The English knights are searching for you, but I told them that I had not seen anyone who looked like you or your friend. Where, may I ask, were you bound?\" \"We were searching for the Forbidden Castle,\" you say. \"Tl have heard of the Forbidden Castle,\"' says the woman, \"but I have also heard that it only - exists in dreams. So you might as well get some more sleep--perhaps you will find it in your dreams!\"' You lie back, and quite soon you fall asleep. And you dream of an ivory castle set on a moun- tain ledge near a waterfall. Its tall, rounded towers gleam in the pink-gold light of the setting sun. _ Slowly, you awaken from the dream. You open your eyes. The castle is gone, and so is Michelle and the kindly peasant woman, for, as you can see by looking around, you are right here, back in your own time. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~  ● drifting onward ~~~~≈~~~│",
+      "│≈~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~~~~~≈~~│ ",
+      "│≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ",
+      "│         Water stretches ahead         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_win",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_97",
+    "section_number": 97,
+    "title": "Court And Castle",
+    "text": "Sir Bertram supplies you and Michelle with a 5s horn, shows you how to blow on it prop- y, and tells you how to find the trail to the gon. The next day you set out at dawn, hop- \"ing that the trail will lead you safely past the jragon and on to the castle. ~ You travel on and on, but the trail seems to lead nowhere. You have almost given up hope _when you see three knights riding toward you. They rein in their horses. \"You are on the prince's royal hunting ground!\" says the leader. \"You will come with ays!\" They lead you to a great stone house, set on top of a hill, and down a long stone stairway eading to a room below the courtyard. They push you inside and lock the door behind you. _ Itis pitch dark. You grope around, but you find no other place to sleep that night than the cold tone floor. Lying there in the dark you hear rats scurrying about. One of them nibbles at your ear. _ Life never looked so bad. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_99",
+    "section_number": 99,
+    "title": "Dragon Encounter",
+    "text": "and Michelle knock at the chamber of a hird Philosopher, Sir René, and find him playing hess with Sir Charles. They listen impatiently ile you ask their opinion of Sir Bertram's idvice. _ \"How foolish an argument,\" says Sir René. § \"Just because the dragon ran away after the duke blew on his horn does not mean he ran because the duke blew on his hor. You should ask the _ stable-keeper, who must know about dragons as well as horses.\" _ \"Nonsense!\"' cries Sir Charles. \"The stable- keeper is a peasant, and so would never know the answer. They should journey to the court and sk Count de Rue. He is a man so worthy that he; often seen in the company of the prince!\"' = \"Ah yes, a much better idea. Ask Count de tue,\"' says Sir René. He moves his rook across _the chess board. \"Check!\" You take Michelle aside. ''I think they're all razy,\" you whisper. 'What do you think?\" \"Perhaps,\" says Michelle, \"but they do not seem unkind. One of them may even help us find the Forbidden Castle. If only we knew which one to believe...\" z If you decide to journey to the court to see Count de Rue, you decide to dalle to yet another Philosopher,.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 105.",
+        "next": "section_105",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 107.",
+        "next": "section_107",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_100",
+    "section_number": 100,
+    "title": "Forest Road",
+    "text": "You climb down the tree, moving as silently as you can. Michelle follows. You stand there a while, ready to climb back up at any second. 'Tet' s go,'\"' you whisper. | You have almost reached the shallow stream at the edge of the forest when you hear once again the mournful howling of the wolves. Michelle starts to run toward the stream. You. follow close behind. But now you see them-at least a dozen gray wolves, running along on either side of you, closing in. This time there are no trees to climb. You grab a stick to use as a weapon, but there are too many. of them, and they are hungry.. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_101",
+    "section_number": 101,
+    "title": "Toward Forbidden Castle",
+    "text": "ter waiting a few hours without seeing or nearing any wolves, you climb down the tree. chelle follows closely behind. Keeping a sharp tch, you make your way across the stream and cross a meadow. You climb a steep hill. From the top you can see the mountains beyond. One of them is higher than the others. Patches of snow ee: in the gullies near its peak. \"We haven't solved the riddle,\"' you say, \"\"but - there' s a chance that from the top of that moun- _ tain we will be able to see the Forbidden Castle.\"' - climb the steep slope of the mountain, you begin to realize that the distance to the top is much \" greater than it looked. You doubt whether you can reach the summit. To make matters worse, the higher you climb, the colder it gets. The clouds grow thicker, and the wind blows harder, bringing with it fog and rain that ruin your hopes of glimpsing the Forbidden Castle.",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 108.",
+        "next": "section_108",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_103",
+    "section_number": 103,
+    "title": "Forest Road",
+    "text": "'Thank you for your offer,\" you tell the count. \"We would rather have our freedom.\" The count leaps down from his horse, grabs _ you by your hair, and swings you around. Then __ he pushes you roughly away, and looks into your pack. 7 _ \"T see that you have very little food left. Beyond my lands are woods thick with robbers d wolves. You are brave, but you are foolish!\" You start to speak, but the count is already remounting his horse. \"'Adieu,'' he cries as he tides briskly away. One of the knights returns your pack. The other prods you with his lance. \"Get moving.\" \"He could have given us a little more time to ink,\" says Michelle. ~ \"Count Gaston never asks twice,' knight. \"Follow me.\", says the\n\n©",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 109.",
+        "next": "section_109",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_104",
+    "section_number": 104,
+    "title": "Toward Forbidden Castle",
+    "text": "Fearing that you could never make it to the © Forbidden Castle on your own, you and Michelle © agree to stay in the service of the count. You soon learn what it is like to be in the service of Count Gaston. As a page, you must always be ready to assist your lord. Each day you - must prepare his clothing, care for his armor, and | wait on his table. You even learn to hunt with falcons. Michelle is in training to be a lady of the court. Her time is devoted to music, poetry, and Latin, as well as riding. At the end of the day, 'there is chess and backgammon for you, and astronomy for Michelle. Then bed. Every day is the same. There is plenty of food, and your mas- ter is not unkind, but your heart aches-you long to be free. One day, about a month later, the count visits you. ''What's the matter with you two?\" he says. \"You eat well, and you are sheltered from the - cold winds and rain. You have warm clothes.\" The count grows angry as he talks. '\"You are ungrateful for all that | have done for you. Would © you rather I had left you to the wolves?\" You bow your head. There is little you can say. The count strides off. You return to your cell and carve another tiny mark in a comer of the thick oak floor. Only 327 days until you and Michelle © are free again. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_win",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_105",
+    "section_number": 105,
+    "title": "Forest Road",
+    "text": "Charles gives you directions icant the © the palace of the Count de Rue. Early - next morning, you pack as much food and plies as you can carry, and set out on your mey. trail and then another, through woods so dense ~ that you almost never see the sun. Sir Charles's s directions seem to make no sense. At last you admit to each other that you are lost. You wander on and on, hoping to find your ay, but the trails you have followed are - passageways in an endless maze. _ You and Michelle are never seen again. The End _ For four days you and Michelle follow first one | |",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_107",
+    "section_number": 107,
+    "title": "Dragon Encounter",
+    "text": "ock on the door of Sir Harold, another Philosopher. _ \"Come in, come in, come in,\" he eile When you tell Sir Harold what Sir Charles and Sir René advised you, he shakes his head. \"No, no, no, no, no... They're wrong, for the _ truth of what a man says does not depend on _ who he is or who his friends are. Let me tell you _ what to do: the dragon can be captured by hold- _ ing a noose outside his cave, because when the - dragon comes out he will walk right into the - noose.' _ \"Are you sure that will work?\" you ask. Sir Harold strokes his beard a few times, as if deep in thought, and says, \"Yes, yes, yes... _ absolutely, because it is logical and self-evident. _ Moreover, it stands to reason, and, finally, it is indisputable!\" If you decide that Sir Harold's advice is prob- ably as good as any, and you might as well follow it, 'you decide oe Sir Harold's advice is ad",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 110.",
+        "next": "section_110",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "Turn to section 112.",
+        "next": "section_112",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_108",
+    "section_number": 108,
+    "title": "Toward Forbidden Castle",
+    "text": "Finally, you and Michelle can climb no farther. You stop-cold, weak, wet, hungry, and ex- 9 hausted. Suddenly you hear a deep, loud barking. 'What is that?\" cries Michelle. 'More wolves! Come on! We've got to find shelter!'' But even as you are talking, you see two enormous white wolves running toward you. This time, there's no chance you'll escape. ''They're dogs!\"' shouts Michelle. And they are-Great Pyrenees mountain dogs! One of them licks Michelle's face-she laughs. The other tugs at your sleeve. You both laugh.. 'Michelle, I think they want us to follow them!\"' Filled with new energy, you follow the great white dogs over the top of the ridge. Night will soon be upon you, but the sky grows brighter in the west as the storm clouds break. By the time you reach the top of the ridge, the mists have lifted, and the red sun-just about to set-breaks through the clouds. There, before you, gleaming in the last pink light of the day, is a white stone castle capped by - four ivory towers. You blink and look again. 'Michelle, it's the Forbidden Castle!'' Michelle gives you a hug. '\"'What a beautiful sight,\" she says. '\"'No matter what happens now, I will feel that it was worth the trip!\"' \"I agree,\" you say. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_win",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_109",
+    "section_number": 109,
+    "title": "Forest Road",
+    "text": "G on s night escorts you to the edge of the forest. You and Michelle travel on through the woods, hoping to find food and shelter. Fortu- nately, you encounter neither wolves nor rob- _ bers, but the weather changes. A chill wind blows from the north, and great dark clouds fill the sky. Suddenly Michelle grabs your arm. \"Look-a_ cave! Shall we take ee. before the storm hits?\"",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "If you continue on, turn to section 113.",
+        "next": "section_113",
+        "requires": {},
+        "effects": {}
+      },
+      {
+        "text": "If you go into the cave, turn to section 50.",
+        "next": "section_50",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_110",
+    "section_number": 110,
+    "title": "Dragon Trail",
+    "text": "Sir Harold gives you and Michelle a sharp knife and a strong, heavy rope, and you set out for the © dragon trail. i You are happy when, by late afternoon, you ~ come upon a little thatched cottage. Hoping to - find a place to stay for the night, you knock on the door. It is opened by a slender woman with long blond hair. A sparkling green stone hangs - from a chain around her neck. You can't stop looking into her glittering eyes. \"You have traveled far,\"' she says. '\"Come with - me and rest. I shall bring you hot broth.\"' You and Michelle follow her inside. As you start to warm your hands by the fire, the woman bolts the door. Then, turning toward you, she © smiles; it is a strange smile. 'Poor things-you do © not seem to be able to tell a witch when you see one. Now you will learn quite well as you receive - my spell.\": \"What spell?\" \"A spell of forgetfulness, so that you will not remember how you returned to your own times)\" ' The End Do you remember?",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│┌───────────┐      ┌───────────┐      │",
+      "││ █ █ █ █ █ │      │ █ █ █ █ █ │      │",
+      "││           │      │           │      │",
+      "│├──────┬────┤  ●   ├──────┬────┤      │",
+      "││      │    │      │      │    │      │",
+      "││      │    │      │      │    │      │",
+      "│└──────┴────┘      └──────┴────┘      │",
+      "│        Stone halls and towers         ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_win",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_112",
+    "section_number": 112,
+    "title": "Dragon Trail",
+    "text": "\"I don't think much of Sir Harold's advice,\" - you say. \"How about you, Michelle?\" \"It sounds foolish to me,\"' she says. \"I do not - see why we have to take the dragon trail in the first place. There must be other ways to reach the ~ Forbidden Castle!\"' You think for a moment and say, \"I know what to do. We'll take the dragon trail almost as far as where the dragon lives, and then cut through the forest.\": The next morning at sunrise, you and Michelle strap on your packs and leave the sleepy Phi- losophers. The two of you follow the dragon trail for half a day, and then cut south through the forest, using the sun as your compass. Suddenly you hear a tremendous roar, a thunderclap which rattles your bones, and you feel a fiery blast of air like the flaming breath of a dragon. No, it cannot be-dragons never really lived on Earth! Shield- - ing your face with one arm, you tum to look... too late. The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_113",
+    "section_number": 113,
+    "title": "Cave Passage",
+    "text": "think we'd better Bash on,\" you tell Mi- ec we rest in the cave, we may find Y a before we stop.\" 'Then let us push on!\" says Michelle. You are soon glad of your decision, for as you along, the storm clouds break, and the sun gins to shine; you find delicious berries growing ng your way. Presently, the trail forks to the west and the st. The branch leading to the east is ey th thorns and poison ivy. )",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "normal",
+    "choices": [
+      {
+        "text": "Turn to section 71.",
+        "next": "section_71",
+        "requires": {},
+        "effects": {}
+      }
+    ],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_114",
+    "section_number": 114,
+    "title": "Cave Passage",
+    "text": "King Henry's army winds its way up the moun- tainside. At last the armored troop comes to a halt. King Henry dismounts. He walks up to Sister Anna, draws his sword, and holds it high above his head. The sisters stand motionless before him. Suddenly the king hurls his sword to the ground. \"How can | conquer a castle defended by little old ladies?\" he roars. \"'It would violate the code of chivalry!\" Sister Anna steps forward and touches his arm. \"And pray, great king,\" she says, \"how would it ' profit you to conquer this castle? You already have a castle of your own. Were you to rule all Europe, I am sure that you would soon have more problems than pleasures. So stay if you. wish; drink our nectar, and eat honey bread; - forget about conquests, and go in peace.\"' The king stares at the castle, and at the moun- _ tains and the waterfall. He slowly shakes his - head. re \"What will I tell my knights?\" he says softly. \"They will laugh at me for leading them here!\" - \"Tell them,\" Sister Anna says with a smile, \"that you led them here to teach them a lesson.\" _ King Henry turns towards his followers. He shouts a command, and they turn and start slowly - down the mountain. a The sisters invite you and Michelle to stay with - them. You gratefully accept their invitation, but you are already thinking of your next journey to © search for the entrance to the Cave of Time, for - now you wish nothing more than to return to - your own century and your own home. _ The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│ ",
+      "│▓░  █▄   █▄    ▓    ▄█   ▄█   ░░░░░░▓│ ",
+      "│▓░ ▄██▄ ▄██▄   ▓   ▄██▄ ▄██▄  ░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░  ●  ░░░░░░░░░░░░░░░░░░▓│  ",
+      "│▓░░░░░░░ Dark cavern path ░░░░░░░░░░▓│ ",
+      "│▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓│   ",
+      "│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ ",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_death",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  },
+  {
+    "id": "section_116",
+    "section_number": 116,
+    "title": "Forest Road",
+    "text": "\"T could vu use a rest, myself,\" you Say, as you gratefully sit down on the soft moss beneath a gnarled old tree. Michelle quickly joins you. \"We'd best take only a few minutes,\" she says.: You lean up against the tree and close your - eyes. It seems like only a minute later when you - open them again, but at least an hour must have - gone by, for the sun has set, and there is barely - enough light for you to see the trail ahead. Michelle i is sound asleep.: \"Quick, wake up!\"' You shake her and pull her to her feet. The two of you half-walk, half-run along the trail for a few minutes before the darkness closes in and you are forced to grope your way through the thorns and brambles, trying to stay on the trail. But it doesn't matter any more. All around - you, wherever you look, the snakes are coming - out. = The End",
+    "ascii_art": [
+      "┌──────────────────────────────────────┐",
+      "│ ▲   ▲    ▲   ▲▲   ▲    ▲   ▲▲   ▲   │ ",
+      "│ │   │    │   ││   │    │   ││   │   │ ",
+      "│ │ ▲ │ ▲  │ ▲ ││ ▲ │ ▲  │ ▲ ││ ▲ │   │ ",
+      "│ │ │ │ │  │ │ ││ │ │ │  │ │ ││ │ │   │ ",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│         Forest trail ahead           │",
+      "│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │",
+      "│   ▲▲       ▲▲       ▲▲       ▲▲      │",
+      "└──────────────────────────────────────┘"
+    ],
+    "node_type": "ending_neutral",
+    "choices": [],
+    "effects": {},
+    "random_event_pool": []
+  }
+]
