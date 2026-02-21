@@ -344,7 +344,7 @@ class Renderer:
 
         if frame.get("show_story_cursor", False):
             is_paginated = bool(frame.get("is_paginated", False))
-            cursor_text = "NEXT PAGE ▶" if is_paginated else "▶"
+            cursor_text = "[SPACE] NEXT PAGE ▶" if is_paginated else "▶"
             cursor_surface = self.body_font.render(cursor_text, True, self.COLOR_TEXT)
             x = story_inner.right - cursor_surface.get_width()
             y = story_inner.bottom - cursor_surface.get_height()

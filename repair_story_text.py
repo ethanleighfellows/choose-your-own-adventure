@@ -23,10 +23,11 @@ PAGE_NUMBER_RE = re.compile(r"^[^A-Za-z0-9]*\d{1,3}[^A-Za-z0-9]*$")
 # Keep this regex aligned with cleanup so extracted sentences are removable from prose.
 CHOICE_SENTENCE_RE = re.compile(
     r"(?is)("
-    r"(?:if\b[^.!?\n]{0,260}?\s+)?"
-    r"(?:turn\s*to|go\s*(?:on\s*)?to|proceed\s*to|continue\s*to|head\s*to)"
-    r"\s*(?:page|section)\s*([0-9A-Za-z]{1,5})"
-    r"[^.!?\n]{0,120}[.!?]?"
+    r"(?:(?:if|when|should|decide|step|wiser|wait|you|you're|to|go)\b[^.!?\n]{0,350}?)?"
+    r"\b(?:turn|go|proceed|continue|head|page|section|p\.|pg\.)\b"
+    r"[^.!?\n]{0,80}?"
+    r"([0-9A-Za-z]{1,5})"
+    r"[^.!?\n]{0,100}[.!?]?"
     r")"
 )
 
@@ -168,8 +169,12 @@ def clean_choice_label(label: str, destination: int) -> str:
     return text
 
 
+def normalize_ws(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def extract_choices(raw_text: str) -> list[tuple[str, int]]:
-    text = normalize_text(raw_text)
+    text = normalize_ws(normalize_text(raw_text))
     found: list[tuple[str, int]] = []
     seen_dest: set[int] = set()
 
